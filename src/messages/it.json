@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "St. George's Square (Misraħ San Ġorġ)",
-    "description": "Guida completa per St. George's Square a Valletta, Malta. Scopri questa piazza storica, inclusi luogo, storia e informazioni per i visitatori."
+    "title": "St. George's Square Valletta: Guida, Eventi e Storia",
+    "description": "Pianifica la tua visita a St. George's Square (Misraħ San Ġorġ) a Valletta, Malta — valutata 4.6/5 da 5.327 visitatori. Gratuita e aperta 24 ore, vicino al Palazzo del Gran Maestro e alla Cattedrale di San Giovanni. Eventi, come arrivare e parcheggio."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "St. George's Square",
     "subtitle": "Luogo Storico · Valletta",
     "rating": "4.6",
-    "reviewCount": "5.232 recensioni",
+    "reviewCount": "5.327 recensioni",
     "type": "Piazza Storica",
     "openMaps": "Visualizza su Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
@@ -76,7 +76,7 @@
     "city": "Città",
     "cityValue": "Valletta",
     "googleRating": "Valutazione Google",
-    "googleRatingValue": "4.6 (5.232)",
+    "googleRatingValue": "4.6 (5.327)",
     "address": "Indirizzo",
     "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
     "plusCode": "Plus Code",
@@ -240,6 +240,17 @@
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
     "openMaps": "Visualizza su Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
+  },
+  "events": {
+    "title": "Eventi e Novità",
+    "subtitle": "St. George's Square è una delle principali sedi di celebrazioni pubbliche di Valletta.",
+    "items": [
+      { "name": "Earth Hour", "desc": "Ogni marzo la piazza partecipa all'evento globale di spegnimento delle luci, con raduni a lume di candela e performance acustiche." },
+      { "name": "Valletta Green Festival", "desc": "Una celebrazione primaverile di natura e sostenibilità, con installazioni e musica dal vivo nella piazza." },
+      { "name": "Cambio della Guardia", "desc": "Le guardie cerimoniali compaiono spesso presso il vicino Palazzo del Gran Maestro durante le occasioni di stato ufficiali." },
+      { "name": "Concerti e Notti Culturali", "desc": "Concerti all'aperto, luminarie festive e spettacoli pubblici sono regolarmente organizzati nella piazza." },
+      { "name": "Natale e Periodo Festivo", "desc": "Le decorazioni stagionali e gli eventi della comunità animano la piazza alla fine dell'anno." }
+    ]
   },
   "footer": {
     "brandName": "St. George's Square",

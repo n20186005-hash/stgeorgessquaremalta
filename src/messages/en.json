@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "St. George's Square (Misraħ San Ġorġ)",
-    "description": "Complete travel guide to St. George's Square in Valletta, Malta. Learn about this historic square, including location, history, and visitor information."
+    "title": "St. George's Square Valletta: Visitor Guide, Events & History",
+    "description": "Plan your visit to St. George's Square (Misraħ San Ġorġ) in Valletta, Malta — rated 4.6/5 by 5,327 travellers. Free and open 24 hours, by the Grandmaster's Palace and St. John's Co-Cathedral. Events, how to get there & parking."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "St. George's Square",
     "subtitle": "Historic Square · Valletta",
     "rating": "4.6",
-    "reviewCount": "5,232 reviews",
+    "reviewCount": "5,327 reviews",
     "type": "Historic Square",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
@@ -76,7 +76,7 @@
     "city": "City",
     "cityValue": "Valletta",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (5,232)",
+    "googleRatingValue": "4.6 (5,327)",
     "address": "Address",
     "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
     "plusCode": "Plus Code",
@@ -240,6 +240,17 @@
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
+  },
+  "events": {
+    "title": "Events & What's On",
+    "subtitle": "St. George's Square is one of Valletta's main venues for public celebrations and cultural gatherings.",
+    "items": [
+      { "name": "Earth Hour", "desc": "Each March the square joins the global lights-out event with candlelit gatherings and acoustic performances." },
+      { "name": "Valletta Green Festival", "desc": "A spring celebration of nature and sustainability, with installations and live music across the square." },
+      { "name": "Changing of the Guard", "desc": "Ceremonial guards often appear at the adjacent Grandmaster's Palace during official state occasions." },
+      { "name": "Concerts & Cultural Nights", "desc": "Open-air concerts, festive lights and public shows are regularly staged in the square." },
+      { "name": "Christmas & Festive Season", "desc": "Seasonal decorations and community events bring the square to life at the end of the year." }
+    ]
   },
   "footer": {
     "brandName": "St. George's Square",

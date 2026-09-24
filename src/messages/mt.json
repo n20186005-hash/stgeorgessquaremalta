@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "St. George's Square (Misraħ San Ġorġ)",
-    "description": "Gwida sħiħa għal St. George's Square f'Valletta, Malta. Skopri din il-pjazza storika, inklużi l-post, l-istorja, u l-informazzjoni għall-viżitaturi."
+    "title": "St. George's Square Valletta: Gwida, Avvenimenti u Storja",
+    "description": "Ippjana żjara tiegħek lejn St. George's Square (Misraħ San Ġorġ) f'Valletta, Malta — vvalutata 4.6/5 minn 5,327 viżitatur. B'xejn u miftuħa 24 siegħa, ħdejn il-Palazz tal-Gran Mastro u l-Katidral ta' San Ġwann. Avvenimenti, kif tasal u parkeġġ."
   },
   "header": {
     "home": "Id-Dar",
@@ -14,7 +14,7 @@
     "title": "St. George's Square",
     "subtitle": "Post Storiku · Valletta",
     "rating": "4.6",
-    "reviewCount": "5,232 fehmiet",
+    "reviewCount": "5,327 fehmiet",
     "type": "Pjazza Storika",
     "openMaps": "Ara fuq Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
@@ -76,7 +76,7 @@
     "city": "Belt",
     "cityValue": "Valletta",
     "googleRating": "Rating fuq Google",
-    "googleRatingValue": "4.6 (5,232)",
+    "googleRatingValue": "4.6 (5,327)",
     "address": "Indirizz",
     "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
     "plusCode": "Plus Code",
@@ -240,6 +240,17 @@
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
     "openMaps": "Ara fuq Google Maps",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
+  },
+  "events": {
+    "title": "Avvenimenti u Attivitajiet",
+    "subtitle": "St. George's Square hija waħda mill-iktar postijiet ewlenin f'Valletta għall-ċelebrazzjonijiet pubbliċi.",
+    "items": [
+      { "name": "Earth Hour", "desc": "Kull Marzu l-pjazza tipparteċipa fl-avveniment globali tat-titlif tad-dwal, b'laqgħat bil-kandili u spettakli akustiċi." },
+      { "name": "Valletta Green Festival", "desc": "Ċelebrazzjoni tar-rebbiegħa tan-natura u l-istanżjar, bil-pjazza mimlija installazzjonijiet u mużika live." },
+      { "name": "Il-Bidla tal-Gwardja", "desc": "Il-gwardji ċerimonjali spiss jidhru fil-Palazz tal-Gran Mastro fil-viċin matul okkażjonijiet uffiċjali tal-istat." },
+      { "name": "Kunċerti u Wirjiet Kulturali", "desc": "Kunċerti fil-beraħ, dawl festiv u spettakli pubbliċi jsiru regolarment fil-pjazza." },
+      { "name": "Milied u Staġun Festiv", "desc": "Id-dekorazzjonijiet staġjonali u l-avvenimenti tal-komunità jagħtuh il-ħajja lill-pjazza fl-aħħar tas-sena." }
+    ]
   },
   "footer": {
     "brandName": "St. George's Square",

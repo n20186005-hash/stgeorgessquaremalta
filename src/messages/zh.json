@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "圣乔治广场 (Misraħ San Ġorġ)",
-    "description": "瓦莱塔圣乔治广场完整旅游指南。了解这座马耳他瓦莱塔的历史地标，包括位置和游览信息。"
+    "title": "圣乔治广场（瓦莱塔）：游览指南、活动与历史",
+    "description": "马耳他瓦莱塔圣乔治广场（Misraħ San Ġorġ）旅游攻略。5,327 位游客评分 4.6，全天免费开放。邻近大教长宫与圣约翰大教堂。活动、交通与停车信息一览。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "圣乔治广场",
     "subtitle": "古迹地标 · 瓦莱塔",
     "rating": "4.6",
-    "reviewCount": "5,232 条评价",
+    "reviewCount": "5,327 条评价",
     "type": "古迹地标",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
@@ -76,7 +76,7 @@
     "city": "城市",
     "cityValue": "瓦莱塔 (Valletta)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (5,232)",
+    "googleRatingValue": "4.6 (5,327)",
     "address": "地址",
     "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
     "plusCode": "Plus Code",
@@ -240,6 +240,17 @@
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
+  },
+  "events": {
+    "title": "活动与近期安排",
+    "subtitle": "圣乔治广场是瓦莱塔最主要的公共庆典与文化聚会场地之一。",
+    "items": [
+      { "name": "地球一小时 (Earth Hour)", "desc": "每年三月，广场参与全球熄灯活动，举办烛光聚会与原声音乐表演。" },
+      { "name": "瓦莱塔绿色节 (Valletta Green Festival)", "desc": "春季举办的自然与可持续发展庆典，广场上布满装置艺术与现场音乐。" },
+      { "name": "卫兵交接仪式", "desc": "在官方国事活动期间，邻近的大教长宫常出现仪仗卫兵。" },
+      { "name": "音乐会与文化之夜", "desc": "广场定期举办露天音乐会、节日灯饰与公共演出。" },
+      { "name": "圣诞节与节庆季", "desc": "年末的节日装饰与社区活动让广场充满活力。" }
+    ]
   },
   "footer": {
     "brandName": "圣乔治广场",

@@ -20,16 +20,15 @@ export async function generateMetadata({
   const urls = {
     en: `${baseUrl}/en`,
     zh: `${baseUrl}/zh`,
-    es: `${baseUrl}/es`,
     it: `${baseUrl}/it`,
-    mt: `${baseUrl}/mt`
-  };
-  
+    mt: `${baseUrl}/mt`,
+  } as const;
+
   const selfUrl = urls[locale as keyof typeof urls] || urls.en;
+  const ogImage = `${baseUrl}/gallery/st-georges-square%20(1).jpg`;
 
   let ogLocale = 'en_US';
   if (locale === 'zh') ogLocale = 'zh_CN';
-  else if (locale === 'es') ogLocale = 'es_ES';
   else if (locale === 'it') ogLocale = 'it_IT';
   else if (locale === 'mt') ogLocale = 'mt_MT';
 
@@ -40,11 +39,10 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'en': urls.en,
-        'zh': urls.zh,
-        'es': urls.es,
-        'it': urls.it,
-        'mt': urls.mt,
+        en: urls.en,
+        zh: urls.zh,
+        it: urls.it,
+        mt: urls.mt,
         'x-default': urls.en,
       },
     },
@@ -55,6 +53,13 @@ export async function generateMetadata({
       siteName: "St. George's Square",
       locale: ogLocale,
       type: 'website',
+      images: [{ url: ogImage, width: 1200, height: 800, alt: "St. George's Square, Valletta" }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [ogImage],
     },
   };
 }
