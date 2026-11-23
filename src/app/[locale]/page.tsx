@@ -13,6 +13,7 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 import EventsSection from '@/components/EventsSection';
+import NearbyPlaces from '@/components/NearbyPlaces';
 import JsonLd from '@/components/JsonLd';
 
 const BASE_URL = 'https://stgeorgessquaremalta.com';
@@ -58,7 +59,7 @@ export default async function HomePage({
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: 4.6,
-          reviewCount: 5327,
+          reviewCount: 5405,
         },
         isAccessibleForFree: true,
         publicAccess: true,
@@ -116,6 +117,7 @@ export default async function HomePage({
         <EventsSection />
         <Reviews />
         <MapEmbed />
+        <NearbyPlaces locale={locale} />
       </main>
       <Footer />
     </>

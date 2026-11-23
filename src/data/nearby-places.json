@@ -1,0 +1,963 @@
+[
+  {
+    "slug": "grandmasters-palace",
+    "address": "Republic Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/grand-masters-palace/",
+    "photo": "/nearby/grandmasters-palace.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Grandmaster%27s_Palace_%28Valletta%29.jpg",
+    "text": {
+      "en": {
+        "name": "Grandmaster's Palace",
+        "note": "Follow the arcades into the palace courtyards, then allow time for the armoury’s helmets and horse armour."
+      },
+      "zh": {
+        "name": "大教长宫",
+        "note": "先看宫廷庭院的拱廊，再为军械库的头盔与马铠预留时间。"
+      },
+      "mt": {
+        "name": "Il-Palazz tal-Gran Mastru",
+        "note": "Ibda mill-arkati tal-btieħi u ħalli ħin għall-elmi u l-armaturi taż-żwiemel."
+      },
+      "it": {
+        "name": "Palazzo del Gran Maestro",
+        "note": "Inizia dalle arcate dei cortili e dedica tempo agli elmi e alle armature da cavallo."
+      }
+    },
+    "author": "Christian Zammit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "st-johns-co-cathedral",
+    "address": "St John Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "St John’s Co-Cathedral Foundation",
+    "source": "https://www.stjohnscocathedral.com/",
+    "photo": "/nearby/st-johns-co-cathedral.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
+    "text": {
+      "en": {
+        "name": "St. John's Co-Cathedral",
+        "note": "The austere limestone façade gives way to gilded chapels, marble tomb slabs and Caravaggio’s painting in the Oratory."
+      },
+      "zh": {
+        "name": "圣约翰共主教座堂",
+        "note": "朴素的石灰岩立面内是镀金礼拜堂、大理石墓碑和祈祷室里的卡拉瓦乔画作。"
+      },
+      "mt": {
+        "name": "Il-Konkatidral ta’ San Ġwann",
+        "note": "Wara l-faċċata sempliċi ssib kappelli indurati, lapidi tal-irħam u pittura ta’ Caravaggio fl-Oratorju."
+      },
+      "it": {
+        "name": "Concattedrale di San Giovanni",
+        "note": "Dietro la facciata sobria si trovano cappelle dorate, lastre tombali in marmo e il dipinto di Caravaggio nell’Oratorio."
+      }
+    },
+    "author": "Matthew Axiak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "upper-barrakka-gardens",
+    "address": "Battery Street, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "Ambjent Malta",
+    "source": "https://ambjentmalta.gov.mt/what-we-do/managed-sites/upper-barrakka/",
+    "photo": "/nearby/upper-barrakka-gardens.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Upper_barrakka_gardens-IMG_1670.jpg",
+    "text": {
+      "en": {
+        "name": "Upper Barrakka Gardens",
+        "note": "The arcaded terrace overlooks the Grand Harbour and the Three Cities. Look down for the separate Saluting Battery."
+      },
+      "zh": {
+        "name": "上巴拉卡花园",
+        "note": "从拱廊平台俯瞰大港与三姐妹城，再向下辨认独立开放的礼炮台。"
+      },
+      "mt": {
+        "name": "Il-Barrakka ta’ Fuq",
+        "note": "Mit-terrazzin bl-arkati tara l-Port il-Kbir u t-Tliet Ibliet. Il-Batterija tas-Salut tinsab aktar ’l isfel."
+      },
+      "it": {
+        "name": "Giardini Upper Barrakka",
+        "note": "Dalla terrazza ad arcate si vedono il Porto Grande e le Tre Città. La Batteria di Saluto si trova più in basso."
+      }
+    },
+    "author": "C T Johansson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "lower-barrakka-gardens",
+    "address": "Triq il-Lvant, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "Ambjent Malta",
+    "source": "https://www.servizz.gov.mt/en/services/web-03902",
+    "photo": "/nearby/lower-barrakka-gardens.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_il-Lvant_-_Lower_Barrakka_Gardens_-_Alexander_Ball_02_ies.jpg",
+    "text": {
+      "en": {
+        "name": "Lower Barrakka Gardens",
+        "note": "The temple-like memorial to Alexander Ball anchors this garden. The seaward path frames the harbour entrance."
+      },
+      "zh": {
+        "name": "下巴拉卡花园",
+        "note": "亚历山大·鲍尔纪念碑形似神庙，是花园中心。从临海步道取景可看到大港入口。"
+      },
+      "mt": {
+        "name": "Il-Barrakka t’Isfel",
+        "note": "Il-monument ta’ Alexander Ball, qisu tempju, jinsab fiċ-ċentru. Mill-mogħdija qrib il-baħar tara d-daħla tal-port."
+      },
+      "it": {
+        "name": "Giardini Lower Barrakka",
+        "note": "Il monumento ad Alexander Ball, simile a un tempio, domina il giardino. Il sentiero verso il mare inquadra l’imboccatura del porto."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "fort-st-elmo",
+    "address": "Mediterranean Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+    "photo": "/nearby/fort-st-elmo.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Valletta%2C_Malta_-_2018_%2839570984425%29.jpg",
+    "text": {
+      "en": {
+        "name": "Fort St Elmo",
+        "note": "At the peninsula’s tip, trace the angular ramparts and leave time for the National War Museum inside the fort."
+      },
+      "zh": {
+        "name": "圣埃尔莫堡",
+        "note": "到半岛尽头看折角城防，并给堡内国家战争博物馆留出时间。"
+      },
+      "mt": {
+        "name": "Forti Sant’Iermu",
+        "note": "Fit-tarf tal-peniżola osserva s-swar angolati u żur il-Mużew Nazzjonali tal-Gwerra ġewwa l-forti."
+      },
+      "it": {
+        "name": "Forte Sant’Elmo",
+        "note": "Sulla punta della penisola osserva i bastioni angolati e visita il Museo nazionale della guerra all’interno del forte."
+      }
+    },
+    "author": "Dion Hinchcliffe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "slug": "national-museum-of-archaeology",
+    "address": "Republic Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/national-museum-of-archaeology/",
+    "photo": "/nearby/national-museum-of-archaeology.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_ir-Repubblika_%2B_Auberge_de_Provence_01_ies.jpg",
+    "text": {
+      "en": {
+        "name": "National Museum of Archaeology",
+        "note": "Inside the Auberge de Provence, look for the Sleeping Lady and the small figures from Malta’s prehistoric temples."
+      },
+      "zh": {
+        "name": "马耳他国家考古博物馆",
+        "note": "走进普罗旺斯骑士馆，留意「沉睡夫人」和马耳他史前神庙出土的小雕像。"
+      },
+      "mt": {
+        "name": "Il-Mużew Nazzjonali tal-Arkeoloġija",
+        "note": "Fil-Berġa ta’ Provenza fittex il-Mara Rieqda u l-figurini mit-tempji preistoriċi."
+      },
+      "it": {
+        "name": "Museo nazionale di archeologia",
+        "note": "Nell’Auberge de Provence cerca la Signora dormiente e le statuette dei templi preistorici."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "muza",
+    "address": "Merchants Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/muza/",
+    "photo": "/nearby/muza.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:MU%C5%BBA_-_The_National_Community_Art_Museum.jpg",
+    "text": {
+      "en": {
+        "name": "MUŻA",
+        "note": "The art collection occupies the Auberge d’Italie. Look for the courtyard and the building’s painted and sculpted details."
+      },
+      "zh": {
+        "name": "MUŻA 国家艺术博物馆",
+        "note": "艺术馆位于意大利骑士馆。除了藏品，也可留意庭院、绘画与雕刻装饰。"
+      },
+      "mt": {
+        "name": "MUŻA",
+        "note": "Il-kollezzjoni tal-arti tinsab fil-Berġa tal-Italja. Osserva l-bitħa u d-dettalji dekorattivi."
+      },
+      "it": {
+        "name": "MUŻA",
+        "note": "La collezione d’arte occupa l’Auberge d’Italie. Osserva il cortile e i dettagli pittorici e scultorei."
+      }
+    },
+    "author": "Ben Williams",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "manoel-theatre",
+    "address": "Old Theatre Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Teatru Manoel",
+    "source": "https://teatrumanoel.mt/",
+    "photo": "/nearby/manoel-theatre.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Manoel_theatre_%2812843882153%29.jpg",
+    "text": {
+      "en": {
+        "name": "Manoel Theatre",
+        "note": "Look up from the stalls to the tiers of boxes and compare the small auditorium with the scale of the stage."
+      },
+      "zh": {
+        "name": "马诺埃尔剧院",
+        "note": "从池座抬头看层层包厢，对比小巧观众厅与舞台的尺度。"
+      },
+      "mt": {
+        "name": "It-Teatru Manoel",
+        "note": "Mill-platea ħares lejn ir-ringieli ta’ palchetti u qabbel is-sala żgħira mal-palk."
+      },
+      "it": {
+        "name": "Teatro Manoel",
+        "note": "Dalla platea alza lo sguardo verso gli ordini di palchi e confronta la sala raccolta con il palcoscenico."
+      }
+    },
+    "author": "R Muscat",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "slug": "casa-rocca-piccola",
+    "address": "74 Republic Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Casa Rocca Piccola",
+    "source": "https://casaroccapiccola.com/",
+    "photo": "/nearby/casa-rocca-piccola.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Casa_Rocca_Piccola.jpeg",
+    "text": {
+      "en": {
+        "name": "Casa Rocca Piccola",
+        "note": "This house visit pairs furnished family rooms with underground shelters. Ask about stairs when booking."
+      },
+      "zh": {
+        "name": "罗卡皮科拉宅邸",
+        "note": "这座宅邸兼有保留陈设的家族房间与地下避难所，预约时可先询问楼梯。"
+      },
+      "mt": {
+        "name": "Casa Rocca Piccola",
+        "note": "Iż-żjara tinkludi kmamar tal-familja bl-għamara u xelters taħt l-art. Staqsi dwar it-taraġ meta tibbukkja."
+      },
+      "it": {
+        "name": "Casa Rocca Piccola",
+        "note": "La visita unisce sale di famiglia arredate e rifugi sotterranei. Chiedi informazioni sulle scale al momento della prenotazione."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "city-gate",
+    "address": "Republic Street, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/City_Gate_%28Valletta%29",
+    "photo": "/nearby/city-gate.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:City_Gate%2C_Valletta_002.jpg",
+    "text": {
+      "en": {
+        "name": "City Gate",
+        "note": "Cross the ditch from the fountain side and look back to see how the modern opening cuts through the historic walls."
+      },
+      "zh": {
+        "name": "瓦莱塔城门",
+        "note": "从喷泉一侧跨过壕沟，回望现代城门如何嵌入历史城墙。"
+      },
+      "mt": {
+        "name": "Bieb il-Belt",
+        "note": "Aqsam il-foss min-naħa tal-funtana u ħares lura lejn il-fetħa moderna fis-swar."
+      },
+      "it": {
+        "name": "Porta della Città",
+        "note": "Attraversa il fossato dal lato della fontana e voltati verso il varco moderno nelle mura storiche."
+      }
+    },
+    "author": "Matthew Axiak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "parliament-house",
+    "address": "Freedom Square, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "Parliament of Malta",
+    "source": "https://parlament.mt/",
+    "photo": "/nearby/parliament-house.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta%E2%80%99s_Parliament_building_in_Valletta_%28cropped%29.jpg",
+    "text": {
+      "en": {
+        "name": "Parliament House",
+        "note": "Notice the perforated limestone screens and the way the blocks sit above the street on slender supports."
+      },
+      "zh": {
+        "name": "马耳他议会大厦",
+        "note": "留意带孔的石灰岩外墙，以及建筑体块如何由细柱托起。"
+      },
+      "mt": {
+        "name": "Il-Parlament ta’ Malta",
+        "note": "Osserva l-iskrins imtaqqbin tal-ġebla tal-franka u l-blokki fuq il-pilastri rqaq."
+      },
+      "it": {
+        "name": "Palazzo del Parlamento",
+        "note": "Osserva gli schermi in pietra calcarea traforata e i volumi sollevati su sostegni sottili."
+      }
+    },
+    "author": "Joe Ambrogio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "pjazza-teatru-rjal",
+    "address": "Republic Street, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/Royal_Opera_House%2C_Valletta",
+    "photo": "/nearby/pjazza-teatru-rjal.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Royalvalletta.jpg",
+    "text": {
+      "en": {
+        "name": "Pjazza Teatru Rjal",
+        "note": "Walk around the old opera house’s surviving masonry and see how the open-air venue uses the footprint of the ruins."
+      },
+      "zh": {
+        "name": "皇家歌剧院遗址",
+        "note": "绕旧歌剧院幸存石墙走一圈，看露天剧场如何沿用遗址的轮廓。"
+      },
+      "mt": {
+        "name": "Pjazza Teatru Rjal",
+        "note": "Dur mal-ħitan li fadal u ara kif it-teatru fil-beraħ juża l-pjanta tal-fdalijiet."
+      },
+      "it": {
+        "name": "Pjazza Teatru Rjal",
+        "note": "Percorri i muri superstiti e osserva come il teatro all’aperto riprende la pianta delle rovine."
+      }
+    },
+    "author": "",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "slug": "triton-fountain",
+    "address": "Vjal Nelson, Floriana",
+    "route": "floriana",
+    "public": true,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/Triton_Fountain_%28Malta%29",
+    "photo": "/nearby/triton-fountain.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Triton_Fountain_in_2018_02.jpg",
+    "text": {
+      "en": {
+        "name": "Triton Fountain",
+        "note": "Circle the basin to see the three bronze figures holding the upper bowl, then frame the fountain with City Gate behind it."
+      },
+      "zh": {
+        "name": "特里同喷泉",
+        "note": "绕池观看托起上层水盘的三尊青铜像，再尝试以城门作背景。"
+      },
+      "mt": {
+        "name": "Il-Funtana tat-Tritoni",
+        "note": "Dur mal-baċin biex tara t-tliet figuri tal-bronż u inkwadra l-funtana b’Bieb il-Belt warajha."
+      },
+      "it": {
+        "name": "Fontana dei Tritoni",
+        "note": "Gira intorno alla vasca per vedere le tre figure in bronzo e inquadra poi la fontana con la Porta della Città sullo sfondo."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "slug": "auberge-de-castille",
+    "address": "Castille Place, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "Office of the Prime Minister",
+    "source": "https://primeminister.gov.mt/",
+    "photo": "/nearby/auberge-de-castille.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Auberge_de_Castille%2C_Valletta_001.jpg",
+    "text": {
+      "en": {
+        "name": "Auberge de Castille",
+        "note": "The prime minister’s offices occupy this former knights’ auberge. Observe the baroque entrance and crest from the square."
+      },
+      "zh": {
+        "name": "卡斯蒂利亚骑士馆",
+        "note": "这座昔日骑士馆现为总理办公室，可从广场观察巴洛克门廊与徽章。"
+      },
+      "mt": {
+        "name": "Il-Berġa ta’ Kastilja",
+        "note": "Il-Prim Ministru juża din il-berġa bħala uffiċċju. Mill-pjazza osserva l-entratura barokka u l-arma."
+      },
+      "it": {
+        "name": "Auberge de Castille",
+        "note": "Questa antica auberge ospita gli uffici del primo ministro. Dalla piazza osserva il portale barocco e lo stemma."
+      }
+    },
+    "author": "Matthew Axiak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "spazju-kreattiv",
+    "address": "Castille Place, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Fondazzjoni Kreattività",
+    "source": "https://kreattivita.org/",
+    "photo": "/nearby/spazju-kreattiv.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Saint_James_Cavalier%2C_Valletta.jpeg",
+    "text": {
+      "en": {
+        "name": "Spazju Kreattiv",
+        "note": "The former defensive cavalier now houses arts spaces. Compare its massive stone shell with the contemporary interiors."
+      },
+      "zh": {
+        "name": "圣詹姆斯骑士堡艺术中心",
+        "note": "原防御堡垒现为艺术空间，可比较厚重石砌外壳与当代展演空间。"
+      },
+      "mt": {
+        "name": "Spazju Kreattiv",
+        "note": "Il-kavallier difensiv sar ċentru tal-arti. Qabbel il-ħitan ħoxnin mal-ispazji kontemporanji."
+      },
+      "it": {
+        "name": "Spazju Kreattiv",
+        "note": "L’antica struttura difensiva ospita spazi artistici. Confronta la massa delle mura con gli interni contemporanei."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "GFDL",
+    "licenseUrl": "https://www.gnu.org/licenses/fdl-1.3.html"
+  },
+  {
+    "slug": "our-lady-of-victories-church",
+    "address": "Victory Square, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Din l-Art Ħelwa",
+    "source": "https://dinlarthelwa.org/",
+    "photo": "/nearby/our-lady-of-victories-church.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Church_of_Our_Lady_of_Victory%2C_Valletta_001.jpg",
+    "text": {
+      "en": {
+        "name": "Our Lady of Victories Church",
+        "note": "This small church marks the early building of Valletta. Look for the painted vault when the interior is open."
+      },
+      "zh": {
+        "name": "胜利圣母教堂",
+        "note": "小教堂见证瓦莱塔早期建城，室内开放时可抬头看彩绘拱顶。"
+      },
+      "mt": {
+        "name": "Il-Knisja tal-Madonna tal-Vitorja",
+        "note": "Din il-knisja żgħira tmur lura għall-bidu tal-Belt. Meta tkun miftuħa, ara l-volta mpittra."
+      },
+      "it": {
+        "name": "Chiesa di Nostra Signora delle Vittorie",
+        "note": "Questa piccola chiesa risale alle origini della città. Quando è aperta, osserva la volta dipinta."
+      }
+    },
+    "author": "Matthew Axiak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "st-pauls-anglican-pro-cathedral",
+    "address": "Independence Square, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "St Paul’s Anglican Pro-Cathedral",
+    "source": "https://anglicanmalta.org/",
+    "photo": "/nearby/st-pauls-anglican-pro-cathedral.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Die_St._Paul%E2%80%99s_Pro-Cathedral_am_Independence_Square._-_panoramio.jpg",
+    "text": {
+      "en": {
+        "name": "St Paul's Anglican Pro-Cathedral",
+        "note": "The Anglican spire rises beside the Carmelite dome. See the contrast from Independence Square before entering."
+      },
+      "zh": {
+        "name": "圣保罗圣公会座堂",
+        "note": "圣公会教堂尖塔和隔邻圣殿圆顶相映，从独立广场可先看两者轮廓。"
+      },
+      "mt": {
+        "name": "Il-Prokatidral Anglikan ta’ San Pawl",
+        "note": "Mill-Pjazza Indipendenza qabbel il-kampnar bil-ponta mal-koppla tal-Karmnu."
+      },
+      "it": {
+        "name": "Procattedrale anglicana di San Paolo",
+        "note": "Da Piazza Indipendenza confronta la guglia anglicana con la cupola carmelitana."
+      }
+    },
+    "author": "Martin Furtschegger",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "slug": "basilica-of-our-lady-of-mount-carmel",
+    "address": "Old Theatre Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Carmelite Order · Maltese Province",
+    "source": "https://church.mt/carmelites-decide-to-remain-in-valletta-fgura-and-santa-venera/",
+    "photo": "/nearby/basilica-of-our-lady-of-mount-carmel.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Basilica_Our_Lady_of_Mount_Carmel_%28Valletta%29.jpg",
+    "text": {
+      "en": {
+        "name": "Basilica of Our Lady of Mount Carmel",
+        "note": "The basilica’s dome gives Valletta its familiar silhouette. Walk the adjacent lanes to see how it fits among the narrow blocks."
+      },
+      "zh": {
+        "name": "卡梅尔山圣母圣殿",
+        "note": "圣殿圆顶构成瓦莱塔天际线的一角，沿附近窄街可观察圆顶和街廓的尺度。"
+      },
+      "mt": {
+        "name": "Il-Bażilika tal-Madonna tal-Karmnu",
+        "note": "Il-koppla tagħti lill-Belt siluwett magħruf. Imxi fit-toroq dojoq ta’ madwarha."
+      },
+      "it": {
+        "name": "Basilica di Nostra Signora del Carmelo",
+        "note": "La cupola è un elemento del profilo di Valletta. Percorri i vicoli vicini per coglierne la scala."
+      }
+    },
+    "author": "Anton Zelenov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "church-of-st-pauls-shipwreck",
+    "address": "St Paul Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "St Paul’s Shipwreck Parish",
+    "source": "https://church.mt/new-archpriest-for-st-pauls-shipwreck-parish-in-valletta/",
+    "photo": "/nearby/church-of-st-pauls-shipwreck.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Collegiate_Parish_Church_of_St_Paul%27s_Shipwreck_fa%C3%A7ade.jpg",
+    "text": {
+      "en": {
+        "name": "Church of St Paul's Shipwreck",
+        "note": "Look for the statue of St Paul and the richly furnished chapel interiors. Plan access around worship."
+      },
+      "zh": {
+        "name": "圣保罗船难教堂",
+        "note": "留意圣保罗雕像与装饰丰富的礼拜堂，避开礼仪时段安排参观。"
+      },
+      "mt": {
+        "name": "Il-Knisja ta’ San Pawl Nawfragu",
+        "note": "Fittex l-istatwa ta’ San Pawl u l-kappelli mżejna. Ippjana ż-żjara skont il-ħin tal-quddies."
+      },
+      "it": {
+        "name": "Chiesa del Naufragio di San Paolo",
+        "note": "Cerca la statua di san Paolo e gli interni decorati delle cappelle. Organizza la visita attorno alle funzioni."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "church-of-st-catherine-of-italy",
+    "address": "Victory Square, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/Church_of_Saint_Catherine_of_Italy%2C_Valletta",
+    "photo": "/nearby/church-of-st-catherine-of-italy.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Church_of_St_Catherine_of_Italy%2C_Valletta.jpeg",
+    "text": {
+      "en": {
+        "name": "Church of St Catherine of Italy",
+        "note": "Compare the church’s compact frontage with the larger auberge buildings around Castille Place."
+      },
+      "zh": {
+        "name": "意大利圣加大利纳教堂",
+        "note": "从卡斯蒂利亚广场比较教堂紧凑的立面与周围尺度更大的骑士馆。"
+      },
+      "mt": {
+        "name": "Il-Knisja ta’ Santa Katerina tal-Italja",
+        "note": "Qabbel il-faċċata żgħira tal-knisja mal-bereġ akbar madwar Pjazza Kastilja."
+      },
+      "it": {
+        "name": "Chiesa di Santa Caterina d’Italia",
+        "note": "Confronta la facciata compatta della chiesa con le auberges più grandi intorno a piazza Castiglia."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "GFDL",
+    "licenseUrl": "https://www.gnu.org/licenses/fdl-1.3.html"
+  },
+  {
+    "slug": "fortress-builders-interpretation-centre",
+    "address": "St Mark Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/",
+    "photo": "/nearby/fortress-builders-interpretation-centre.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_Fortification_Centre.jpeg",
+    "text": {
+      "en": {
+        "name": "Fortress Builders Interpretation Centre",
+        "note": "Models and displays explain how bastions protect one another. Pair the visit with a walk to City Gate to see the geometry in use."
+      },
+      "zh": {
+        "name": "防御工事解说中心",
+        "note": "先看模型如何解释棱堡互相掩护，再步行前往城门，从实地观察同类城防布局。"
+      },
+      "mt": {
+        "name": "Iċ-Ċentru ta’ Interpretazzjoni tal-Fortifikazzjonijiet",
+        "note": "Il-mudelli juru kif is-swar jipproteġu lil xulxin. Kompli bil-mixi sa Bieb il-Belt."
+      },
+      "it": {
+        "name": "Centro di interpretazione delle fortificazioni",
+        "note": "I modelli spiegano come si proteggono a vicenda i bastioni. Prosegui a piedi fino alla Porta della Città."
+      }
+    },
+    "author": "",
+    "license": "",
+    "licenseUrl": ""
+  },
+  {
+    "slug": "saluting-battery",
+    "address": "Battery Street, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Fondazzjoni Wirt Artna",
+    "source": "https://www.wirtartna.org/salutingbattery",
+    "photo": "/nearby/saluting-battery.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Pjazza_Kastilja_-_Upper_Barrakka_Gardens_-_Saluting_Battery_01_ies.jpg",
+    "text": {
+      "en": {
+        "name": "Saluting Battery",
+        "note": "Watch the guns aligned over the Grand Harbour. Check the operator’s timetable before planning around a salute."
+      },
+      "zh": {
+        "name": "礼炮台",
+        "note": "炮列正对大港。如想看鸣炮，先核对运营方公布的时刻。"
+      },
+      "mt": {
+        "name": "Il-Batterija tas-Salut",
+        "note": "Ara l-kanuni lejn il-Port il-Kbir u ċċekkja l-ħin tas-salut mal-operatur."
+      },
+      "it": {
+        "name": "Batteria di Saluto",
+        "note": "Osserva i cannoni allineati verso il Porto Grande e controlla l’orario del saluto presso il gestore."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "barrakka-lift",
+    "address": "Lascaris Wharf, Valletta",
+    "route": "harbour",
+    "public": false,
+    "manager": "Barrakka Company Ltd",
+    "source": "https://www.transport.gov.mt/maritime/ports-commercial/barrakka-lift-826",
+    "photo": "/nearby/barrakka-lift.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Xatt_Lascaris%2BUpper_Barrakka_Lift_%28MSTHC%29_01_ies.jpg",
+    "text": {
+      "en": {
+        "name": "Barrakka Lift",
+        "note": "The lift makes the vertical link between Lascaris Wharf and the gardens. Check the lower landing when transferring from the ferry."
+      },
+      "zh": {
+        "name": "巴拉卡升降梯",
+        "note": "升降梯连接拉斯卡里斯码头与花园；从渡轮换乘时先确认下层入口。"
+      },
+      "mt": {
+        "name": "Il-Lift tal-Barrakka",
+        "note": "Il-lift jgħaqqad ix-Xatt ta’ Lascaris mal-ġonna. Iċċekkja d-daħla t’isfel jekk ġej bil-lanċa."
+      },
+      "it": {
+        "name": "Ascensore Barrakka",
+        "note": "L’ascensore collega il molo Lascaris ai giardini. Individua l’ingresso inferiore se arrivi in traghetto."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "lascaris-war-rooms",
+    "address": "Lascaris Ditch, Valletta",
+    "route": "core",
+    "public": false,
+    "manager": "Fondazzjoni Wirt Artna",
+    "source": "https://www.lascariswarrooms.com/",
+    "photo": "/nearby/lascaris-war-rooms.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Lascaris_War_Room_Entrance.jpg",
+    "text": {
+      "en": {
+        "name": "Lascaris War Rooms",
+        "note": "In the underground operations rooms, look at how wall maps and plotting tables supported wartime coordination."
+      },
+      "zh": {
+        "name": "拉斯卡里斯战时指挥室",
+        "note": "在地下作战室比较墙面地图和标绘桌，了解战时指挥如何协同。"
+      },
+      "mt": {
+        "name": "Il-Kmamar tal-Gwerra ta’ Lascaris",
+        "note": "Fil-kmamar taħt l-art ara l-mapep u l-imwejjed użati għall-koordinazzjoni fil-gwerra."
+      },
+      "it": {
+        "name": "Sale di guerra Lascaris",
+        "note": "Nelle sale sotterranee osserva le mappe a parete e i tavoli di tracciamento usati per coordinare le operazioni."
+      }
+    },
+    "author": "Pi3.124",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "siege-bell-war-memorial",
+    "address": "Quarry Wharf, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/Siege_Bell_War_Memorial",
+    "photo": "/nearby/siege-bell-war-memorial.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:The_Siege_Bell_War_Memorial.jpg",
+    "text": {
+      "en": {
+        "name": "Siege Bell War Memorial",
+        "note": "From the public path, frame the memorial bell and the harbour together. Keep to the paved route near the walls."
+      },
+      "zh": {
+        "name": "围城纪念钟",
+        "note": "沿公共步道可将纪念钟与大港同框，靠近城墙时走铺装路。"
+      },
+      "mt": {
+        "name": "Il-Qanpiena tal-Assedju",
+        "note": "Mill-mogħdija pubblika inkwadra l-qanpiena flimkien mal-port u żomm mal-paviment."
+      },
+      "it": {
+        "name": "Memoriale della Campana dell’Assedio",
+        "note": "Dal percorso pubblico inquadra la campana con il porto e resta sul tratto pavimentato vicino alle mura."
+      }
+    },
+    "author": "JosephAmodio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "valletta-waterfront",
+    "address": "Pinto Wharf, Floriana",
+    "route": "harbour",
+    "public": true,
+    "manager": "Valletta Cruise Port",
+    "source": "https://www.vallettawaterfront.com/",
+    "photo": "/nearby/valletta-waterfront.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:3_Valletta_waterfront_090917.jpg",
+    "text": {
+      "en": {
+        "name": "Valletta Waterfront",
+        "note": "The restored Pinto warehouses are easiest to read as a row. Look for the coloured doors facing the quay."
+      },
+      "zh": {
+        "name": "瓦莱塔海滨",
+        "note": "平托仓库沿码头成列，适合沿岸看整排建筑与彩色门扇。"
+      },
+      "mt": {
+        "name": "Il-Valletta Waterfront",
+        "note": "Ara l-imħażen restawrati ta’ Pinto bħala ringiela u fittex il-bibien ikkuluriti max-xatt."
+      },
+      "it": {
+        "name": "Valletta Waterfront",
+        "note": "Osserva in fila i magazzini Pinto restaurati e cerca le porte colorate affacciate sulla banchina."
+      }
+    },
+    "author": "NAC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "st-publius-parish-church",
+    "address": "Pjazza San Publiju, Floriana",
+    "route": "floriana",
+    "public": false,
+    "manager": "St Publius Parish",
+    "source": "https://church.mt/",
+    "photo": "/nearby/st-publius-parish-church.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Floriana_parish_church.jpeg",
+    "text": {
+      "en": {
+        "name": "St Publius Parish Church",
+        "note": "The broad square gives a clear view of the church façade and twin towers. Visit the interior around parish services."
+      },
+      "zh": {
+        "name": "圣普布利乌斯堂",
+        "note": "广场宽阔，便于看清堂前立面与双塔，入内参观要配合堂区礼仪时段。"
+      },
+      "mt": {
+        "name": "Il-Knisja Parrokkjali ta’ San Publiju",
+        "note": "Mill-pjazza wiesgħa tara l-faċċata u ż-żewġ kampnari. Żur il-knisja skont il-ħin tal-quddies."
+      },
+      "it": {
+        "name": "Chiesa parrocchiale di San Publio",
+        "note": "Dall’ampia piazza si vedono la facciata e i due campanili. Visita l’interno tenendo conto delle funzioni."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "fort-st-angelo",
+    "address": "Birgu Waterfront, Birgu",
+    "route": "three",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/fort-st-angelo/",
+    "photo": "/nearby/fort-st-angelo.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Birgu_-_Fort_Saint_Angelo_%28Upper_Barrakka_Gardens%29_01_ies.jpg",
+    "text": {
+      "en": {
+        "name": "Fort St Angelo",
+        "note": "Climb the fort’s terraces for views back to Valletta. The ramparts reveal how the fort controls the inner harbour."
+      },
+      "zh": {
+        "name": "圣安杰洛堡",
+        "note": "登上城堡平台回望瓦莱塔，沿棱堡观察这座要塞如何扼守港湾。"
+      },
+      "mt": {
+        "name": "Forti Sant’Anġlu",
+        "note": "Itla’ fit-terrazzi biex tara l-Belt u osserva kif is-swar jiddominaw il-port."
+      },
+      "it": {
+        "name": "Forte Sant’Angelo",
+        "note": "Sali sulle terrazze per vedere Valletta e osserva come i bastioni dominano il porto interno."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "inquisitors-palace",
+    "address": "Main Gate Street, Birgu",
+    "route": "three",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/inquisitors-palace/",
+    "photo": "/nearby/inquisitors-palace.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Inquisitor%27s_Palace_in_Birgu.jpg",
+    "text": {
+      "en": {
+        "name": "Inquisitor's Palace",
+        "note": "Plan time for the tribunal room and prison cells. Their different scales help explain the building’s former roles."
+      },
+      "zh": {
+        "name": "宗教裁判所宫殿",
+        "note": "给审判厅和囚室都留时间，比较空间尺度能看出建筑昔日的不同用途。"
+      },
+      "mt": {
+        "name": "Il-Palazz tal-Inkwiżitur",
+        "note": "Ħalli ħin għas-sala tat-tribunal u ċ-ċelel biex tifhem ir-rwoli differenti tal-bini."
+      },
+      "it": {
+        "name": "Palazzo dell’Inquisitore",
+        "note": "Dedica tempo all’aula del tribunale e alle celle per comprendere i diversi ruoli dell’edificio."
+      }
+    },
+    "author": "Continentaleurope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "slug": "malta-maritime-museum",
+    "address": "Vittoriosa Waterfront, Birgu",
+    "route": "three",
+    "public": false,
+    "manager": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/malta-maritime-museum/",
+    "photo": "/nearby/malta-maritime-museum.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Vittoriosa-seafront-maritime-museum.JPG",
+    "text": {
+      "en": {
+        "name": "Malta Maritime Museum",
+        "note": "The former naval bakery faces the Birgu waterfront. Verify museum access separately before walking over from the ferry."
+      },
+      "zh": {
+        "name": "马耳他海事博物馆",
+        "note": "前海军面包房面向比尔古海滨，从渡轮步行前先查博物馆开放状态。"
+      },
+      "mt": {
+        "name": "Il-Mużew Marittimu ta’ Malta",
+        "note": "Il-forn navali ta’ qabel iħares lejn ix-xatt tal-Birgu. Iċċekkja l-ftuħ tal-mużew qabel titlaq mil-lanċa."
+      },
+      "it": {
+        "name": "Museo marittimo di Malta",
+        "note": "L’ex panificio navale si affaccia sul lungomare di Birgu. Verifica l’apertura del museo prima di partire dal traghetto."
+      }
+    },
+    "author": "Mboesch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "slug": "hastings-gardens",
+    "address": "Windmill Street, Valletta",
+    "route": "core",
+    "public": true,
+    "manager": "",
+    "source": "https://en.wikipedia.org/wiki/Hastings_Gardens",
+    "photo": "/nearby/hastings-gardens.webp",
+    "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_il-Papa_Piju_V_-_Hastings_Gardens_-_Monument_to_Lord_Hastings_01_ies.jpg",
+    "text": {
+      "en": {
+        "name": "Hastings Gardens",
+        "note": "Walk the bastion garden for views over Marsamxett Harbour. The harbour on this side is different from the one seen at Barrakka."
+      },
+      "zh": {
+        "name": "黑斯廷斯花园",
+        "note": "沿棱堡花园俯瞰马尔萨姆谢特港，这里面对瓦莱塔半岛的另一侧。"
+      },
+      "mt": {
+        "name": "Ġnien Hastings",
+        "note": "Imxi fil-ġnien fuq is-swar għal veduti tal-Port ta’ Marsamxett, fuq in-naħa l-oħra tal-peniżola."
+      },
+      "it": {
+        "name": "Giardini Hastings",
+        "note": "Passeggia sul bastione per vedere il porto di Marsamxett, sull’altro lato della penisola."
+      }
+    },
+    "author": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+]

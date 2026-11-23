@@ -1,3 +1,4 @@
+import { places } from '@/data/nearby';
 import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
@@ -20,6 +21,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
         ),
       },
     });
+
+    for (const page of ['nearby', ...places.map(({ slug }) => `nearby/${slug}`)]) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/${page}`,
+        alternates: {
+          languages: Object.fromEntries(routing.locales.map((item) => [item, `${BASE_URL}/${item}/${page}`])),
+        },
+      });
+    }
 
     for (const page of LEGAL_PAGES) {
       entries.push({

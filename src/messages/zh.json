@@ -1,9 +1,10 @@
 {
   "meta": {
     "title": "圣乔治广场（瓦莱塔）：游览指南、活动与历史",
-    "description": "马耳他瓦莱塔圣乔治广场（Misraħ San Ġorġ）旅游攻略。5,327 位游客评分 4.6，全天免费开放。邻近大教长宫与圣约翰大教堂。活动、交通与停车信息一览。"
+    "description": "马耳他瓦莱塔圣乔治广场（Misraħ San Ġorġ）旅游攻略。5,405 位游客评分 4.6，全天免费开放。邻近大教长宫与圣约翰大教堂。活动、交通与停车信息一览。"
   },
   "header": {
+    "nearby": "周边景点",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -14,7 +15,7 @@
     "title": "圣乔治广场",
     "subtitle": "古迹地标 · 瓦莱塔",
     "rating": "4.6",
-    "reviewCount": "5,327 条评价",
+    "reviewCount": "5,405 条评价",
     "type": "古迹地标",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
@@ -76,7 +77,7 @@
     "city": "城市",
     "cityValue": "瓦莱塔 (Valletta)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (5,327)",
+    "googleRatingValue": "4.6 (5,405)",
     "address": "地址",
     "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
     "plusCode": "Plus Code",
