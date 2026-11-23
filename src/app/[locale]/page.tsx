@@ -79,7 +79,7 @@ export default async function HomePage({
             closes: '23:59',
           },
         ],
-        sameAs: ['https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7'],
+        sameAs: ['https://maps.app.goo.gl/CJwegLGa71LFPVkY9'],
         isPartOf: {
           '@type': 'City',
           name: 'Valletta',

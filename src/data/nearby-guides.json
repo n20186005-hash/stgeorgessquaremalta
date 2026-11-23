@@ -1,0 +1,1059 @@
+{
+  "grandmasters-palace": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/grand-masters-palace/",
+    "visit": "managed",
+    "walk": [
+      "st-johns-co-cathedral",
+      "grandmasters-palace",
+      "casa-rocca-piccola"
+    ],
+    "coordinates": [
+      35.89861,
+      14.51417
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "Built for the Order of St John in the late sixteenth century, the palace later housed Malta’s parliament. The courtyards separate the long Renaissance street front from the ceremonial interiors.",
+        "photoTip": "From the centre of St George’s Square, frame the entire palace frontage; inside, use an arcade to frame the courtyard."
+      },
+      "zh": {
+        "history": "大教长宫在16世纪后期为圣约翰骑士团兴建，后来曾容纳马耳他议会。宫廷庭院隔开了临街的文艺复兴式长立面与内部礼仪空间。",
+        "photoTip": "站在圣乔治广场中央拍宫殿全立面；入内后可用一道拱门框住庭院。"
+      },
+      "mt": {
+        "history": "Il-palazz inbena għall-Ordni ta’ San Ġwann lejn tmiem is-seklu sittax u aktar tard laqa’ l-Parlament. Il-btieħi jifirdu l-faċċata Rinaxximentali mis-swali ċerimonjali.",
+        "photoTip": "Minn nofs Misraħ San Ġorġ inkwadra l-faċċata kollha; fil-palazz uża arkata biex tinkwadra l-bitħa."
+      },
+      "it": {
+        "history": "Costruito per l’Ordine di San Giovanni alla fine del Cinquecento, il palazzo ospitò poi il Parlamento maltese. I cortili separano la lunga facciata rinascimentale dagli ambienti di rappresentanza.",
+        "photoTip": "Dal centro di piazza San Giorgio inquadra l’intera facciata; all’interno usa un’arcata per incorniciare il cortile."
+      }
+    }
+  },
+  "st-johns-co-cathedral": {
+    "role": "visitor",
+    "source": "https://www.stjohnscocathedral.com/",
+    "visit": "managed",
+    "walk": [
+      "national-museum-of-archaeology",
+      "st-johns-co-cathedral",
+      "muza"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "Girolamo Cassar designed this conventual church for the Order. Its restrained façade contrasts with a Baroque interior where the knights’ different langues had their own chapels.",
+        "photoTip": "Use St John’s Square to frame the twin towers, and check photography rules before taking the camera inside."
+      },
+      "zh": {
+        "history": "吉罗拉莫·卡萨尔为骑士团设计了这座修会教堂。外立面较为简朴，巴洛克式内堂则为骑士团的不同语言分团设置了礼拜堂。",
+        "photoTip": "在圣约翰广场拍双塔；带相机入内前先看摄影规则。"
+      },
+      "mt": {
+        "history": "Ġlormu Cassar iddisinja din il-knisja konventwali għall-Ordni. Il-faċċata sobrja tikkuntrasta mal-intern barokk, fejn il-lingwi tal-Ordni kellhom kappelli separati.",
+        "photoTip": "Minn Pjazza San Ġwann inkwadra ż-żewġ kampnari u ċċekkja r-regoli tar-ritratti qabel tidħol."
+      },
+      "it": {
+        "history": "Girolamo Cassar progettò questa chiesa conventuale per l’Ordine. La facciata sobria contrasta con l’interno barocco, dove le diverse lingue dell’Ordine avevano cappelle proprie.",
+        "photoTip": "Da piazza San Giovanni inquadra i due campanili e verifica le regole prima di fotografare all’interno."
+      }
+    }
+  },
+  "upper-barrakka-gardens": {
+    "role": "horticulture",
+    "source": "https://ambjentmalta.gov.mt/what-we-do/managed-sites/upper-barrakka/",
+    "visit": "open",
+    "walk": [
+      "auberge-de-castille",
+      "upper-barrakka-gardens",
+      "saluting-battery"
+    ],
+    "coordinates": [
+      35.89472,
+      14.51222
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/upper-barrakka-gardens-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Jardines_de_Barrakka_Superior%2C_La_Valeta%2C_isla_de_Malta%2C_Malta%2C_2021-08-25%2C_DD_243-245_HDR.jpg",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The terrace occupies the bastion of Saints Peter and Paul. Its arcades frame views over the defensive line below and the fortified headlands across Grand Harbour.",
+        "photoTip": "Use an end arch to frame Fort St Angelo across the harbour; pause clear of the main passage."
+      },
+      "zh": {
+        "history": "观景平台位于圣彼得与圣保罗棱堡之上。透过拱廊，可将下方防御线和大港对岸设防的岬角同框。",
+        "photoTip": "利用拱廊尽头的一道拱门框住对岸圣安杰洛堡，停留时让开通道。"
+      },
+      "mt": {
+        "history": "It-terrazzin jinsab fuq is-swar ta’ San Pietru u San Pawl. L-arkati jinkwadraw id-difiżi ta’ taħt u l-ponot fortifikati faċċata.",
+        "photoTip": "Uża arkata fit-tarf biex tinkwadra Forti Sant’Anġlu u ħalli l-passaġġ liberu."
+      },
+      "it": {
+        "history": "La terrazza occupa il bastione dei Santi Pietro e Paolo. Le arcate inquadrano le difese sottostanti e i promontori fortificati oltre il Porto Grande.",
+        "photoTip": "Usa un’arcata terminale per inquadrare Forte Sant’Angelo e lascia libero il passaggio."
+      }
+    }
+  },
+  "lower-barrakka-gardens": {
+    "role": "horticulture",
+    "source": "https://www.servizz.gov.mt/en/services/web-03902",
+    "visit": "open",
+    "walk": [
+      "siege-bell-war-memorial",
+      "lower-barrakka-gardens",
+      "fort-st-elmo"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The neoclassical temple commemorates Alexander Ball. The memorial’s columns and pediment create a sharp contrast with the heavy bastion stonework below the garden.",
+        "photoTip": "Stand at the edge of the central path for the temple; use the outer terrace for a separate harbour shot."
+      },
+      "zh": {
+        "history": "园内的新古典主义神庙纪念亚历山大·鲍尔。纪念碑的柱列和山花，与花园下方厚重的棱堡石墙形成鲜明对照。",
+        "photoTip": "站在中央步道边拍纪念神庙，再到外围平台单独拍港景。"
+      },
+      "mt": {
+        "history": "It-tempju neoklassiku jfakkar lil Alexander Ball. Il-kolonni u l-frontun jikkuntrastaw mas-swar massiċċi taħt il-ġnien.",
+        "photoTip": "Mit-tarf tal-mogħdija ċentrali ħu ritratt tat-tempju; mit-terrazzin ħu veduta tal-port."
+      },
+      "it": {
+        "history": "Il tempietto neoclassico ricorda Alexander Ball. Colonne e frontone contrastano con la massa delle fortificazioni sotto il giardino.",
+        "photoTip": "Fotografa il tempietto dal bordo del vialetto centrale e il porto dalla terrazza esterna."
+      }
+    }
+  },
+  "fort-st-elmo": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+    "visit": "managed",
+    "walk": [
+      "casa-rocca-piccola",
+      "fort-st-elmo",
+      "lower-barrakka-gardens"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The fort covers the tip of the Sciberras peninsula between two harbours. Its position explains why it mattered in the Great Siege of 1565 and why the museum tells the story through several periods.",
+        "photoTip": "From an open rampart, show the wall in the foreground and the harbour entrance behind it."
+      },
+      "zh": {
+        "history": "堡垒占据斯凯贝拉斯半岛尽头，夹在两个港湾之间。从地势可以理解它在1565年大围攻中的作用，也便于串起馆内不同年代的展陈。",
+        "photoTip": "在开放的堡台把石墙放入前景，后方留出港口入口。"
+      },
+      "mt": {
+        "history": "Il-forti jinsab fit-tarf tal-peniżola bejn żewġ portijiet. Il-pożizzjoni tispjega r-rwol tiegħu fl-Assedju l-Kbir tal-1565 u l-istorja ta’ żminijiet differenti fil-mużew.",
+        "photoTip": "Minn fuq is-swar miftuħa poġġi l-ħajt quddiem u d-daħla tal-port warajh."
+      },
+      "it": {
+        "history": "Il forte occupa la punta della penisola tra due porti. La posizione spiega il suo ruolo nel Grande Assedio del 1565 e il racconto museale articolato in più epoche.",
+        "photoTip": "Da un bastione aperto includi le mura in primo piano e l’imboccatura del porto sullo sfondo."
+      }
+    }
+  },
+  "national-museum-of-archaeology": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/national-museum-of-archaeology/",
+    "visit": "managed",
+    "walk": [
+      "city-gate",
+      "national-museum-of-archaeology",
+      "st-johns-co-cathedral"
+    ],
+    "coordinates": [
+      35.8975,
+      14.51125
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The collection occupies the former Auberge de Provence. Inside, compare the scale and material of the temple figures with the dressed limestone of the knights’ building.",
+        "photoTip": "From the opposite side of Republic Street, line up the Auberge de Provence portal in a vertical frame."
+      },
+      "zh": {
+        "history": "考古馆设于昔日的普罗旺斯骑士馆。参观时可比较史前神庙小雕像和骑士馆石构的尺度与材质。",
+        "photoTip": "在共和街对侧用竖幅拍普罗旺斯骑士馆的正门。"
+      },
+      "mt": {
+        "history": "Il-kollezzjoni tinsab fl-eks Berġa ta’ Provenza. Qabbel il-figurini tat-tempji mal-ġebla maħduma tal-binja tal-Kavallieri.",
+        "photoTip": "Min-naħa l-oħra ta’ Triq ir-Repubblika inkwadra l-portal tal-Berġa ta’ Provenza vertikalment."
+      },
+      "it": {
+        "history": "La collezione occupa l’antica Auberge de Provence. Confronta scala e materiali delle figurine dei templi con il calcare lavorato dell’edificio cavalleresco.",
+        "photoTip": "Dal lato opposto di Republic Street inquadra in verticale il portale dell’Auberge de Provence."
+      }
+    }
+  },
+  "muza": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/muza/",
+    "visit": "managed",
+    "walk": [
+      "church-of-st-catherine-of-italy",
+      "muza",
+      "auberge-de-castille"
+    ],
+    "coordinates": [
+      35.89639,
+      14.51139
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/muza-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Auberge_d%27Italie%2C_Valletta_002.jpg",
+        "author": "Matthew Axiak",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The former Auberge d’Italie developed around a central courtyard. Its heavy stone portal announces the building from Merchants Street, while the galleries adapt its former rooms to a different use.",
+        "photoTip": "From the opposite side of Merchants Street, capture the full carved portal with the upper balcony."
+      },
+      "zh": {
+        "history": "昔日的意大利骑士馆围绕中央庭院展开。商人街一侧可看到厚重的石雕门廊，走进展厅则能看到旧房间如何改作艺术空间。",
+        "photoTip": "在商人街对侧把石雕门廊和上方阳台一并摄入。"
+      },
+      "mt": {
+        "history": "L-eks Berġa tal-Italja żviluppat madwar bitħa ċentrali. Il-portal tal-ġebel jidher minn Triq il-Merkanti, u l-kmamar antiki llum iservu bħala galleriji.",
+        "photoTip": "Min-naħa opposta ta’ Triq il-Merkanti inkwadra l-portal kollu u l-gallarija ta’ fuqu."
+      },
+      "it": {
+        "history": "L’antica Auberge d’Italie si sviluppa intorno a un cortile centrale. Il portale in pietra si riconosce da Merchants Street e le sale storiche ospitano oggi le gallerie.",
+        "photoTip": "Dal lato opposto di Merchants Street includi tutto il portale scolpito e il balcone superiore."
+      }
+    }
+  },
+  "manoel-theatre": {
+    "role": "visitor",
+    "source": "https://teatrumanoel.mt/",
+    "visit": "performance",
+    "walk": [
+      "basilica-of-our-lady-of-mount-carmel",
+      "manoel-theatre",
+      "grandmasters-palace"
+    ],
+    "coordinates": [
+      35.90028,
+      14.5125
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/manoel-theatre-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Manoel_Theatre_%28monument_01140%29_20220521.jpg",
+        "author": "Otter",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The theatre opened in 1732 under Grand Master António Manoel de Vilhena. Its horseshoe auditorium brings the tiered wooden boxes close to the stage.",
+        "photoTip": "Use the opposite pavement for the entrance. During a tour, ask before photographing the boxes from the stalls."
+      },
+      "zh": {
+        "history": "大教长安东尼奥·马诺埃尔·德维列纳任内，剧院于1732年开放。马蹄形观众厅将多层木制包厢收拢在舞台周围。",
+        "photoTip": "在对面人行道拍入口。若参加导览，先询问能否从池座拍包厢。"
+      },
+      "mt": {
+        "history": "It-teatru fetaħ fl-1732 taħt il-Gran Mastru António Manoel de Vilhena. Is-sala f’għamla ta’ nagħla ġġib il-palchetti qrib il-palk.",
+        "photoTip": "Ħu ritratt tad-daħla mill-bankina opposta. Waqt żjara staqsi qabel tieħu ritratt tal-palchetti mill-platea."
+      },
+      "it": {
+        "history": "Il teatro aprì nel 1732 sotto il gran maestro António Manoel de Vilhena. La sala a ferro di cavallo avvicina i palchi in legno al palcoscenico.",
+        "photoTip": "Riprendi l’ingresso dal marciapiede opposto. Durante la visita chiedi prima di fotografare i palchi dalla platea."
+      }
+    }
+  },
+  "casa-rocca-piccola": {
+    "role": "visitor",
+    "source": "https://casaroccapiccola.com/",
+    "visit": "managed",
+    "walk": [
+      "grandmasters-palace",
+      "casa-rocca-piccola",
+      "fort-st-elmo"
+    ],
+    "coordinates": [
+      35.899861,
+      14.515417
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/casa-rocca-piccola-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Casaroccapiccoladine.jpg",
+        "author": "Ori~",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "This late-sixteenth-century house preserves private domestic spaces along Valletta’s main street. The wartime shelters below offer a second view of how the family used the property.",
+        "photoTip": "From the public pavement, frame the traditional balconies together with the entrance at number 74."
+      },
+      "zh": {
+        "history": "这座16世纪后期的宅邸保留了瓦莱塔主街旁的私人居住空间。地下战时避难所则展示了宅邸在另一时期的用途。",
+        "photoTip": "从公共人行道把74号入口与上方传统阳台同框。"
+      },
+      "mt": {
+        "history": "Din id-dar ta’ tmiem is-seklu sittax iżżomm spazji domestiċi fi Triq ir-Repubblika. Ix-xelters tal-gwerra juru użu ieħor tal-proprjetà.",
+        "photoTip": "Mill-bankina pubblika inkwadra l-gallariji tradizzjonali mad-daħla numru 74."
+      },
+      "it": {
+        "history": "Questa casa di fine Cinquecento conserva ambienti privati lungo la via principale. I rifugi sotterranei mostrano un altro uso della proprietà durante la guerra.",
+        "photoTip": "Dal marciapiede pubblico inquadra i balconi tradizionali e l’ingresso al numero 74."
+      }
+    }
+  },
+  "city-gate": {
+    "role": "project",
+    "source": "https://ghrc.gov.mt/projects/valletta-city-gate",
+    "visit": "open",
+    "walk": [
+      "triton-fountain",
+      "city-gate",
+      "parliament-house"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The current entrance is part of Renzo Piano’s City Gate project. The open cut reveals the depth of the ditch and the difference between the original fortified approach and today’s pedestrian entry.",
+        "photoTip": "On the entrance bridge, look diagonally into the ditch to show the depth of the cut in the walls."
+      },
+      "zh": {
+        "history": "现今入口是伦佐·皮亚诺城门改造的一部分。从开口处能看清壕沟深度，也能对照昔日防御入口与今日步行入口。",
+        "photoTip": "在入口桥上斜向拍入壕沟，表现城墙开口的纵深。"
+      },
+      "mt": {
+        "history": "Id-daħla tifforma parti mill-proġett ta’ Renzo Piano. Il-fetħa turi l-fond tal-foss u d-differenza bejn l-aċċess fortifikat u d-daħla tal-lum.",
+        "photoTip": "Mill-pont ħares djagonalment lejn il-foss biex jidher il-fond tal-fetħa."
+      },
+      "it": {
+        "history": "L’ingresso attuale fa parte del progetto di Renzo Piano. Il varco mostra la profondità del fossato e il passaggio dall’accesso fortificato all’ingresso pedonale.",
+        "photoTip": "Dal ponte guarda in diagonale nel fossato per mostrare la profondità del varco."
+      }
+    }
+  },
+  "parliament-house": {
+    "role": "occupant",
+    "source": "https://parlament.mt/",
+    "visit": "open",
+    "walk": [
+      "city-gate",
+      "parliament-house",
+      "pjazza-teatru-rjal"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The contemporary parliament forms one side of the City Gate ensemble. Its sculpted limestone screens light the upper rooms and give the façade a different texture from the smooth bastion walls.",
+        "photoTip": "From Freedom Square, turn slightly off-axis to include both the stone screens and the thin ground-level columns."
+      },
+      "zh": {
+        "history": "现代议会大厦是城门建筑群的一部分。上层雕刻石屏给室内引光，外墙肌理也与平整的城防石墙不同。",
+        "photoTip": "从自由广场稍微斜拍，把上层石屏与地面层细柱一起纳入画面。"
+      },
+      "mt": {
+        "history": "Il-Parlament kontemporanju jagħmel parti mill-ensemble ta’ Bieb il-Belt. L-iskrins tal-ġebla jagħtu dawl lill-kmamar ta’ fuq u nisġa distinta mill-ħitan tas-swar.",
+        "photoTip": "Minn Pjazza Ħelsien ħu ritratt ftit mill-ġenb biex jidhru l-iskrins u l-pilastri rqaq."
+      },
+      "it": {
+        "history": "Il Parlamento contemporaneo fa parte del complesso della Porta della Città. Gli schermi scolpiti illuminano le sale superiori e danno alla facciata una trama diversa dai bastioni.",
+        "photoTip": "Da piazza della Libertà spostati di lato per includere gli schermi in pietra e i pilastri sottili."
+      }
+    }
+  },
+  "pjazza-teatru-rjal": {
+    "role": "visitor",
+    "source": "https://pjazzateatrurjal.gov.mt/organization/",
+    "visit": "performance",
+    "walk": [
+      "parliament-house",
+      "pjazza-teatru-rjal",
+      "spazju-kreattiv"
+    ],
+    "coordinates": [
+      35.8967,
+      14.5103
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The nineteenth-century opera house was badly hit in 1942. The open-air theatre uses the surviving stonework to keep the outline of the old building visible at street level.",
+        "photoTip": "Use the outer pavement on Republic Street to frame the old columns against the contemporary seating."
+      },
+      "zh": {
+        "history": "19世纪的歌剧院在1942年遭到严重破坏。如今的露天剧场借助幸存石墙，在街道层面保留了旧建筑的轮廓。",
+        "photoTip": "从共和街外侧人行道取景，让旧石柱与当代座席同框。"
+      },
+      "mt": {
+        "history": "It-teatru tal-opra tas-seklu dsatax intlaqat fl-1942. It-teatru fil-beraħ iżomm il-ħitan li fadal biex tidher il-pjanta l-antika mit-triq.",
+        "photoTip": "Mill-bankina ta’ Triq ir-Repubblika inkwadra l-kolonni qodma mas-siġġijiet moderni."
+      },
+      "it": {
+        "history": "Il teatro d’opera ottocentesco fu gravemente colpito nel 1942. La sala all’aperto usa le murature superstiti per mantenere leggibile l’impianto originario.",
+        "photoTip": "Dal marciapiede di Republic Street inquadra le vecchie colonne davanti alle sedute moderne."
+      }
+    }
+  },
+  "triton-fountain": {
+    "role": "maintenance",
+    "source": "https://www.etenders.gov.mt/epps/cft/prepareViewCfTWS.do?resourceId=10262387",
+    "visit": "open",
+    "walk": [
+      "st-publius-parish-church",
+      "triton-fountain",
+      "city-gate"
+    ],
+    "coordinates": null,
+    "gallery": [
+      {
+        "src": "/nearby/triton-fountain-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Vjal_Nelson_-_Triton_Fountain_14_ies.jpg",
+        "author": "Frank Vincentz",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "Installed in the twentieth century outside Valletta’s gate, the fountain places three bronze Tritons around a central basin. Walk around it to see how the figures balance the upper bowl.",
+        "photoTip": "Shoot from the pedestrian apron on the bus-terminal side, with the figures in front of the City Gate approach."
+      },
+      "zh": {
+        "history": "喷泉于20世纪建在瓦莱塔城门外，三尊青铜特里同围绕水池。走一圈可看清雕像如何以不同姿态托住上层水盘。",
+        "photoTip": "从巴士总站一侧的步行区取景，把雕像放在城门通道前方。"
+      },
+      "mt": {
+        "history": "Il-funtana tas-seklu għoxrin barra Bieb il-Belt għandha tliet Tritoni tal-bronż. Dur magħha biex tara kif iżommu l-baċin ta’ fuq.",
+        "photoTip": "Miż-żona pedonali qrib it-terminal inkwadra l-figuri quddiem id-daħla tal-Belt."
+      },
+      "it": {
+        "history": "Installata nel Novecento fuori dalla porta di Valletta, la fontana dispone tre tritoni in bronzo intorno alla vasca. Girale attorno per vedere come reggono il bacino superiore.",
+        "photoTip": "Dall’area pedonale verso il capolinea inquadra le figure davanti all’accesso alla città."
+      }
+    }
+  },
+  "auberge-de-castille": {
+    "role": "occupant",
+    "source": "https://primeminister.gov.mt/",
+    "visit": "open",
+    "walk": [
+      "our-lady-of-victories-church",
+      "auberge-de-castille",
+      "upper-barrakka-gardens"
+    ],
+    "coordinates": [
+      35.89583,
+      14.51139
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The auberge was built for knights associated with Castile, León and Portugal. Its eighteenth-century Baroque façade looks out across the high ground near the Upper Barrakka Gardens.",
+        "photoTip": "From the square, centre the coat of arms over the doorway; step sideways if parked vehicles interrupt the foreground."
+      },
+      "zh": {
+        "history": "这里曾供来自卡斯蒂利亚、莱昂和葡萄牙的骑士使用。18世纪的巴洛克立面朝向上巴拉卡花园旁的高地广场。",
+        "photoTip": "从广场对准门上徽章构图，若前景有停车，可向一侧移动。"
+      },
+      "mt": {
+        "history": "Il-berġa kienet tal-Kavallieri ta’ Kastilja, Leon u l-Portugall. Il-faċċata barokka tas-seklu tmintax tħares lejn il-pjazza qrib il-Barrakka ta’ Fuq.",
+        "photoTip": "Mill-pjazza ċċentra l-arma fuq il-bieb; ersaq lejn il-ġenb jekk hemm karozzi quddiemek."
+      },
+      "it": {
+        "history": "L’auberge accoglieva i cavalieri di Castiglia, León e Portogallo. La facciata barocca settecentesca domina lo spazio vicino ai giardini Upper Barrakka.",
+        "photoTip": "Dalla piazza centra lo stemma sopra il portale e spostati di lato se ci sono auto in primo piano."
+      }
+    }
+  },
+  "spazju-kreattiv": {
+    "role": "visitor",
+    "source": "https://kreattivita.org/",
+    "visit": "managed",
+    "walk": [
+      "pjazza-teatru-rjal",
+      "spazju-kreattiv",
+      "our-lady-of-victories-church"
+    ],
+    "coordinates": [
+      35.8957861,
+      14.5103028
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/spazju-kreattiv-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Saint_James_Kavallier.jpeg",
+        "author": "Continentaleurope",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The cavalier was built as a raised defensive work behind the landward ramparts. The cultural centre makes the original thick walls and vaulted spaces visible in a new setting.",
+        "photoTip": "Use the corner facing Castille Place to show the depth of the stone walls in a three-quarter view."
+      },
+      "zh": {
+        "history": "这座高台堡垒原用于加强陆侧城墙的防御。改作文化中心后，厚重石墙与拱顶仍可在当代展演空间中看到。",
+        "photoTip": "从朝向卡斯蒂利亚广场的一角斜拍，显示石墙的厚度。"
+      },
+      "mt": {
+        "history": "Il-kavallier inbena bħala difiża għolja wara s-swar tal-art. Fiċ-ċentru kulturali għadhom jidhru l-ħitan ħoxnin u l-volti oriġinali.",
+        "photoTip": "Mill-kantuniera lejn Pjazza Kastilja ħu ritratt mill-ġenb biex jidher il-ħxuna tal-ħitan."
+      },
+      "it": {
+        "history": "Il cavaliere era un’opera difensiva rialzata dietro i bastioni di terra. Il centro culturale conserva le mura spesse e gli ambienti voltati in un nuovo contesto.",
+        "photoTip": "Dall’angolo verso piazza Castiglia riprendi di tre quarti per mostrare lo spessore delle mura."
+      }
+    }
+  },
+  "our-lady-of-victories-church": {
+    "role": "visitor",
+    "source": "https://dinlarthelwa.org/",
+    "visit": "worship",
+    "walk": [
+      "spazju-kreattiv",
+      "our-lady-of-victories-church",
+      "church-of-st-catherine-of-italy"
+    ],
+    "coordinates": [
+      35.896,
+      14.510694
+    ],
+    "gallery": [
+      {
+        "src": "/nearby/our-lady-of-victories-church-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Interior_Our_Lady_of_Victory_Valletta.jpg",
+        "author": "NickGeorge1993",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "This church belongs to the first phase of building after the Great Siege. Its modest exterior contains a vault decorated by Alessio Erardi.",
+        "photoTip": "Frame the small church from the far edge of Victory Square. Ask about photography inside before shooting the vault."
+      },
+      "zh": {
+        "history": "这座教堂属于大围攻后瓦莱塔最早一批建筑。朴素外观之内，有阿莱西奥·埃拉尔迪绘饰的拱顶。",
+        "photoTip": "从胜利广场远侧拍小教堂；入内拍拱顶前先问摄影规定。"
+      },
+      "mt": {
+        "history": "Din il-knisja tmur lura għall-ewwel fażi wara l-Assedju l-Kbir. Wara l-faċċata sempliċi hemm volta mpittra minn Alessio Erardi.",
+        "photoTip": "Mit-tarf ta’ Pjazza Vittorja inkwadra l-knisja żgħira. Staqsi qabel tieħu ritratt tal-volta."
+      },
+      "it": {
+        "history": "La chiesa risale alla prima fase costruttiva dopo il Grande Assedio. La facciata sobria racchiude una volta decorata da Alessio Erardi.",
+        "photoTip": "Dal lato opposto di piazza della Vittoria inquadra la chiesa e chiedi prima di fotografare la volta."
+      }
+    }
+  },
+  "st-pauls-anglican-pro-cathedral": {
+    "role": "visitor",
+    "source": "https://anglicanmalta.org/",
+    "visit": "worship",
+    "walk": [
+      "basilica-of-our-lady-of-mount-carmel",
+      "st-pauls-anglican-pro-cathedral",
+      "fortress-builders-interpretation-centre"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The nineteenth-century Anglican church is marked by a tall spire and a columned entrance. Its profile is easiest to distinguish beside the broader Carmelite dome.",
+        "photoTip": "Use Independence Square for the colonnade and a vertical frame for the spire."
+      },
+      "zh": {
+        "history": "这座19世纪的圣公会教堂有高耸尖塔与柱廊入口。与隔邻卡梅尔山圣母圣殿的宽阔圆顶并看，最容易辨认它的轮廓。",
+        "photoTip": "在独立广场拍柱廊，换竖幅拍尖塔。"
+      },
+      "mt": {
+        "history": "Il-knisja Anglikana tas-seklu dsatax għandha kampnar bil-ponta u entratura bil-kolonni. Is-siluwett tagħha jispikka ħdejn il-koppla tal-Karmnu.",
+        "photoTip": "Minn Pjazza Indipendenza ħu ritratt tal-kolonni u uża format vertikali għall-kampnar."
+      },
+      "it": {
+        "history": "La chiesa anglicana ottocentesca ha una guglia alta e un ingresso colonnato. Il profilo risalta accanto alla cupola carmelitana.",
+        "photoTip": "Da piazza Indipendenza fotografa il colonnato e usa un’inquadratura verticale per la guglia."
+      }
+    }
+  },
+  "basilica-of-our-lady-of-mount-carmel": {
+    "role": "visitor",
+    "source": "https://church.mt/carmelites-decide-to-remain-in-valletta-fgura-and-santa-venera/",
+    "visit": "worship",
+    "walk": [
+      "st-pauls-anglican-pro-cathedral",
+      "basilica-of-our-lady-of-mount-carmel",
+      "manoel-theatre"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The current basilica took shape after wartime damage to its predecessor. The dome rises well above the narrow street and is a landmark from the Marsamxett waterfront.",
+        "photoTip": "For a skyline image, view the dome from the Sliema waterfront. Near the entrance a wide lens is useful in the narrow street."
+      },
+      "zh": {
+        "history": "旧堂遭受战时破坏后，现今圣殿逐步建成。高耸圆顶远高于狭窄街道，也是从马尔萨姆谢特港岸辨识瓦莱塔的地标。",
+        "photoTip": "拍天际线可到斯利马滨水区隔港取景；在教堂门前的窄街可用广角。"
+      },
+      "mt": {
+        "history": "Il-bażilika attwali nbniet wara l-ħsara tal-gwerra lill-knisja ta’ qabel. Il-koppla tidher sew minn max-xatt ta’ Marsamxett.",
+        "photoTip": "Għas-siluwett ara l-koppla mix-xatt ta’ Tas-Sliema. Fit-triq dejqa fid-daħla jgħin lenti wiesgħa."
+      },
+      "it": {
+        "history": "L’attuale basilica prese forma dopo i danni bellici alla chiesa precedente. La cupola domina il vicolo ed è riconoscibile dal lungomare di Marsamxett.",
+        "photoTip": "Per il profilo della città riprendi la cupola dal lungomare di Sliema; nel vicolo all’ingresso è utile il grandangolo."
+      }
+    }
+  },
+  "church-of-st-pauls-shipwreck": {
+    "role": "visitor",
+    "source": "https://church.mt/new-archpriest-for-st-pauls-shipwreck-parish-in-valletta/",
+    "visit": "worship",
+    "walk": [
+      "st-johns-co-cathedral",
+      "church-of-st-pauls-shipwreck",
+      "lower-barrakka-gardens"
+    ],
+    "coordinates": [
+      35.8974,
+      14.51386
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The dedication recalls the Maltese tradition of Saint Paul’s shipwreck. The church occupies a narrow city block, with a much richer interior than its tight street frontage suggests.",
+        "photoTip": "Stand on the opposite pavement in St Paul Street and angle up to show how the frontage fits between adjoining buildings."
+      },
+      "zh": {
+        "history": "教堂奉献主题源于圣保罗在马耳他遇船难的传统。它夹在狭窄街廓中，堂内装饰比街上所见的紧凑立面丰富得多。",
+        "photoTip": "站在圣保罗街对侧仰拍，带入两侧建筑，表现教堂紧贴街廓的格局。"
+      },
+      "mt": {
+        "history": "Id-dedikazzjoni tfakkar it-tradizzjoni Maltija tan-nawfraġju ta’ San Pawl. Il-knisja tinsab fi blokka dejqa, b’intern elaborat wara l-faċċata fit-triq.",
+        "photoTip": "Mill-bankina opposta fi Triq San Pawl ħares ’il fuq biex turi l-faċċata bejn il-binjiet ta’ ħdejha."
+      },
+      "it": {
+        "history": "La dedicazione richiama la tradizione maltese del naufragio di san Paolo. L’interno riccamente decorato si apre dietro il fronte compatto di un isolato stretto.",
+        "photoTip": "Dal marciapiede opposto in St Paul Street scatta verso l’alto per mostrare la facciata tra gli edifici adiacenti."
+      }
+    }
+  },
+  "church-of-st-catherine-of-italy": {
+    "role": "joint",
+    "source": "https://heritagemalta.mt/news/church-of-st-catherine-of-italy-to-become-part-of-muza-visitor-experience/",
+    "visit": "worship",
+    "walk": [
+      "muza",
+      "church-of-st-catherine-of-italy",
+      "our-lady-of-victories-church"
+    ],
+    "coordinates": [
+      35.896278,
+      14.510972
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "Built for the Italian langue of the Order, the church has an octagonal plan behind its sculpted porch. Compare the doorway with the nearby Auberge d’Italie.",
+        "photoTip": "Use the approach from Castille Place to include the porch and the outer wall in the same frame."
+      },
+      "zh": {
+        "history": "教堂为骑士团意大利语言分团而建，雕刻门廊内是八角形平面。可把入口与附近意大利骑士馆的正门对照观察。",
+        "photoTip": "从卡斯蒂利亚广场走近时取斜角，把门廊和外墙一起拍下。"
+      },
+      "mt": {
+        "history": "Il-knisja nbniet għal-Lingwa tal-Italja tal-Ordni. Wara l-portiku skolpit hemm pjanta ottagonali. Qabbel il-bieb ma’ dak tal-Berġa tal-Italja.",
+        "photoTip": "Mill-mogħdija minn Pjazza Kastilja inkwadra l-portiku u l-ħajt ta’ barra flimkien."
+      },
+      "it": {
+        "history": "Costruita per la lingua italiana dell’Ordine, la chiesa ha una pianta ottagonale dietro il portico scolpito. Confronta l’ingresso con quello della vicina Auberge d’Italie.",
+        "photoTip": "Dall’accesso di piazza Castiglia inquadra insieme il portico e il muro esterno."
+      }
+    }
+  },
+  "fortress-builders-interpretation-centre": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/",
+    "visit": "managed",
+    "walk": [
+      "hastings-gardens",
+      "fortress-builders-interpretation-centre",
+      "st-pauls-anglican-pro-cathedral"
+    ],
+    "coordinates": null,
+    "gallery": [
+      {
+        "src": "/nearby/fortress-builders-interpretation-centre-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:The_Fortress_Builders_Eingang.jpg",
+        "author": "HH58",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The centre occupies a former warehouse near the city fortifications. Its models explain the relationship between the walls, bastions and ditches that are harder to see from within the city grid.",
+        "photoTip": "From St Mark Street, frame the warehouse elevation with the slope so the setting remains visible."
+      },
+      "zh": {
+        "history": "解说中心设于城防附近的旧仓库。展陈模型把城墙、棱堡和壕沟串在一起，可补足从老城街道上难以看到的整体关系。",
+        "photoTip": "从圣马可街拍仓库外立面，并带入街道坡度交代地形。"
+      },
+      "mt": {
+        "history": "Iċ-ċentru jinsab f’maħżen antik ħdejn is-swar. Il-mudelli jgħaqqdu l-ħitan, il-bastjuni u l-fosos li diffiċli tarahom flimkien mit-toroq.",
+        "photoTip": "Minn Triq San Mark inkwadra l-faċċata tal-maħżen mal-inklinazzjoni tat-triq."
+      },
+      "it": {
+        "history": "Il centro occupa un ex magazzino vicino alle mura. I modelli mostrano il rapporto tra cortine, bastioni e fossati, difficile da cogliere dalle strade.",
+        "photoTip": "Da St Mark Street inquadra la facciata del magazzino insieme alla pendenza della strada."
+      }
+    }
+  },
+  "saluting-battery": {
+    "role": "visitor",
+    "source": "https://www.wirtartna.org/salutingbattery",
+    "visit": "managed",
+    "walk": [
+      "upper-barrakka-gardens",
+      "saluting-battery",
+      "lascaris-war-rooms"
+    ],
+    "coordinates": [
+      35.8946139,
+      14.5124694
+    ],
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The gun platform looks across the central harbour channel from one level below the gardens. Its orientation makes clear why this position could mark arrivals and signal to ships.",
+        "photoTip": "From the public arcade above, frame the guns in a diagonal row with the harbour behind them."
+      },
+      "zh": {
+        "history": "礼炮平台在花园下一层，正对大港主航道。从炮列的朝向能看出，这里为何适合向船只发出信号、迎接入港。",
+        "photoTip": "从上方公共拱廊俯拍，把成排炮位斜置于前景，大港留在背景。"
+      },
+      "mt": {
+        "history": "Il-pjattaforma tal-kanuni tinsab livell taħt il-ġnien u tħares lejn il-kanal. Minn hemm wieħed jifhem għaliex is-sinjali kienu jaslu lill-vapuri.",
+        "photoTip": "Mill-arkata pubblika ta’ fuq inkwadra l-kanuni f’linja djagonali bil-port warajhom."
+      },
+      "it": {
+        "history": "La piattaforma dei cannoni si trova sotto i giardini, di fronte al canale. L’orientamento spiega perché da qui si potessero segnalare gli arrivi delle navi.",
+        "photoTip": "Dalle arcate pubbliche sopra la batteria inquadra in diagonale i cannoni con il porto sullo sfondo."
+      }
+    }
+  },
+  "barrakka-lift": {
+    "role": "visitor",
+    "source": "https://www.transport.gov.mt/maritime/ports-commercial/barrakka-lift-826",
+    "visit": "lift",
+    "walk": [
+      "upper-barrakka-gardens",
+      "barrakka-lift",
+      "valletta-waterfront"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The current lift opened in 2012 and reconnects the waterfront with the city above the bastion. Watch how the vertical shaft meets the old stonework at the upper landing.",
+        "photoTip": "From the lower landing, frame the tower against the full height of the bastion without blocking the lift doors."
+      },
+      "zh": {
+        "history": "现用升降梯于2012年开放，重新接通滨水区与城墙上方的老城。到上层站可观察现代竖井与城防石墙的交接处。",
+        "photoTip": "从下层站拍升降梯高塔与整段堡墙，避开出入口。"
+      },
+      "mt": {
+        "history": "Il-lift tal-lum fetaħ fl-2012 u jgħaqqad ix-xatt mal-Belt ta’ fuq. Ħares lejn il-laqgħa tax-xaft modern mal-ġebel tas-swar fil-waqfa ta’ fuq.",
+        "photoTip": "Mill-waqfa t’isfel inkwadra t-torri mal-għoli sħiħ tas-swar u tfixkilx il-bibien."
+      },
+      "it": {
+        "history": "L’ascensore attuale ha aperto nel 2012 e collega il molo alla città alta. All’arrivo osserva l’incontro tra la torre moderna e la pietra dei bastioni.",
+        "photoTip": "Dall’accesso inferiore inquadra la torre contro l’intera altezza del bastione, lasciando libere le porte."
+      }
+    }
+  },
+  "lascaris-war-rooms": {
+    "role": "visitor",
+    "source": "https://www.lascariswarrooms.com/",
+    "visit": "managed",
+    "walk": [
+      "saluting-battery",
+      "lascaris-war-rooms",
+      "barrakka-lift"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The rooms lie below the bastions in limestone tunnels. The layout links separate operations spaces to a common wartime command system.",
+        "photoTip": "The entrance in the ditch shows the depth of the bastion. Ask your guide before photographing displays."
+      },
+      "zh": {
+        "history": "指挥室位于棱堡下的石灰岩坑道。多个功能不同的作战室由通道相连，构成战时的指挥系统。",
+        "photoTip": "从壕沟中的入口拍摄可呈现堡墙深度。拍室内展品前先询问导览人员。"
+      },
+      "mt": {
+        "history": "Il-kmamar jinsabu f’mini fil-ġebla taħt is-swar. Il-pjanta tgħaqqad il-kmamar operattivi f’sistema waħda ta’ kmand.",
+        "photoTip": "Id-daħla fil-foss turi l-fond tas-swar. Staqsi lill-gwida qabel tieħu ritratti tal-wirjiet."
+      },
+      "it": {
+        "history": "Le sale si trovano in gallerie nel calcare sotto i bastioni. La disposizione collega diversi ambienti operativi in un unico sistema di comando.",
+        "photoTip": "L’ingresso nel fossato mostra la profondità del bastione. Chiedi alla guida prima di fotografare gli allestimenti."
+      }
+    }
+  },
+  "siege-bell-war-memorial": {
+    "role": "conservation",
+    "source": "https://heritagemalta.mt/capital-projects/",
+    "visit": "open",
+    "walk": [
+      "lower-barrakka-gardens",
+      "siege-bell-war-memorial",
+      "fort-st-elmo"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The memorial commemorates those who died during Malta’s Second World War siege. The open rotunda and suspended bell are visible from both the coastal road and the higher garden terrace.",
+        "photoTip": "Use the Lower Barrakka terrace to frame the rotunda with the harbour entrance behind it."
+      },
+      "zh": {
+        "history": "纪念碑缅怀马耳他二战围困期间的死难者。从滨海道路和较高的花园平台，都可看到开放式圆亭与悬挂的纪念钟。",
+        "photoTip": "从下巴拉卡花园平台将圆亭与背后的大港入口同框。"
+      },
+      "mt": {
+        "history": "Il-monument ifakkar lil dawk li mietu fl-assedju tat-Tieni Gwerra Dinjija. Ir-rotunda u l-qanpiena jidhru mit-triq tax-xatt u mit-terrazzin ta’ fuq.",
+        "photoTip": "Mit-terrazzin tal-Barrakka t’Isfel inkwadra r-rotunda bid-daħla tal-port warajha."
+      },
+      "it": {
+        "history": "Il monumento ricorda le vittime dell’assedio di Malta nella Seconda guerra mondiale. La rotonda e la campana si vedono dalla strada costiera e dalla terrazza superiore.",
+        "photoTip": "Dalla terrazza dei Lower Barrakka inquadra la rotonda con l’ingresso del porto sullo sfondo."
+      }
+    }
+  },
+  "valletta-waterfront": {
+    "role": "visitor",
+    "source": "https://www.vallettawaterfront.com/",
+    "visit": "open",
+    "walk": [
+      "barrakka-lift",
+      "valletta-waterfront",
+      "st-publius-parish-church"
+    ],
+    "coordinates": null,
+    "gallery": [
+      {
+        "src": "/nearby/valletta-waterfront-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Malta_-_Floriana_-_Valletta_Waterfront_%28Sir_Luigi_Preziosi_Gardens%29_01_ies.jpg",
+        "author": "Frank Vincentz",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The Pinto warehouses recall the port’s commercial past. Their repeated limestone bays show how cargo was once handled along a continuous quay.",
+        "photoTip": "Shoot along the quay to show the repeated warehouse doors. Stay in the public promenade area."
+      },
+      "zh": {
+        "history": "平托仓库见证过往的港口贸易。沿码头连续排列的石灰岩开间，保留了以往装卸货物的空间格局。",
+        "photoTip": "在公共步道上顺码头方向拍，让彩色仓门成列入镜。"
+      },
+      "mt": {
+        "history": "L-imħażen ta’ Pinto jfakkru l-kummerċ tal-port. Il-faċċati ripetuti juru kif il-merkanzija kienet tinħatt tul ix-xatt.",
+        "photoTip": "Ħu ritratt tul ix-xatt biex jidhru l-bibien ripetuti u żomm mal-promenade pubblika."
+      },
+      "it": {
+        "history": "I magazzini Pinto ricordano il passato commerciale del porto. Le campate ripetute mostrano come le merci venivano movimentate lungo la banchina.",
+        "photoTip": "Scatta lungo la banchina per mostrare la sequenza dei portoni, restando sul passeggio pubblico."
+      }
+    }
+  },
+  "st-publius-parish-church": {
+    "role": "visitor",
+    "source": "https://church.mt/",
+    "visit": "worship",
+    "walk": [
+      "triton-fountain",
+      "st-publius-parish-church",
+      "valletta-waterfront"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The parish church faces the open Granaries square. The market and assembly space in front makes the symmetry of the façade and its two towers easy to take in.",
+        "photoTip": "Use the centre line of the Granaries square for a straight view of both towers."
+      },
+      "zh": {
+        "history": "堂区教堂面对开阔的粮仓广场。站在前方集会空间，可看清成对钟塔与立面的对称布局。",
+        "photoTip": "沿粮仓广场的中线正拍，把双塔完整收入画面。"
+      },
+      "mt": {
+        "history": "Il-knisja parrokkjali tħares lejn il-Fosos. Il-pjazza miftuħa tagħmilha faċli tara s-simetrija tal-faċċata u ż-żewġ kampnari.",
+        "photoTip": "Uża l-linja ċentrali tal-Fosos għal veduta dritta taż-żewġ kampnari."
+      },
+      "it": {
+        "history": "La parrocchiale si affaccia sulla piazza dei Granai. Lo spazio aperto permette di leggere la simmetria della facciata e dei due campanili.",
+        "photoTip": "Usa l’asse centrale della piazza dei Granai per una vista frontale dei due campanili."
+      }
+    }
+  },
+  "fort-st-angelo": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/fort-st-angelo/",
+    "visit": "managed",
+    "walk": [
+      "malta-maritime-museum",
+      "fort-st-angelo",
+      "inquisitors-palace"
+    ],
+    "coordinates": null,
+    "gallery": [
+      {
+        "src": "/nearby/fort-st-angelo-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Fort_St._Angelo_interior_02.jpg",
+        "author": "G.Mannaerts",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "Birgu’s fort guarded the inner harbour before Valletta was built. Its terraces sit at different levels, each with a different view into the harbour and the entrance channel.",
+        "photoTip": "From an open upper terrace, frame the harbour and Valletta’s elevated city edge."
+      },
+      "zh": {
+        "history": "瓦莱塔兴建以前，比尔古的要塞已扼守内港。不同高度的堡台分别朝向内港与入口航道，可沿路线比较视野。",
+        "photoTip": "从开放的上层堡台取景，把内港和瓦莱塔的高处城墙同框。"
+      },
+      "mt": {
+        "history": "Il-forti tal-Birgu kien iħares il-port qabel inbniet il-Belt. It-terrazzi f’livelli differenti jagħtu veduti separati tal-port u d-daħla.",
+        "photoTip": "Minn terrazzin ta’ fuq miftuħ inkwadra l-port u s-swar għoljin tal-Belt."
+      },
+      "it": {
+        "history": "Il forte di Birgu difendeva il porto interno prima della fondazione di Valletta. Le terrazze a diverse quote offrono viste distinte sul porto e sul canale d’ingresso.",
+        "photoTip": "Da una terrazza superiore aperta inquadra il porto e il profilo rialzato di Valletta."
+      }
+    }
+  },
+  "inquisitors-palace": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/inquisitors-palace/",
+    "visit": "managed",
+    "walk": [
+      "malta-maritime-museum",
+      "inquisitors-palace",
+      "fort-st-angelo"
+    ],
+    "coordinates": null,
+    "gallery": [
+      {
+        "src": "/nearby/inquisitors-palace-detail.webp",
+        "credit": "https://commons.wikimedia.org/wiki/File:Inquisitor_Palace_Birgu_2012_n01.jpg",
+        "author": "Marie-Lan Nguyen",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
+    ],
+    "text": {
+      "en": {
+        "history": "The building was used by the Roman Inquisition in Malta. The sequence from formal rooms to small cells gives the visit a different perspective from a palace tour in Valletta.",
+        "photoTip": "Photograph the street façade from the opposite pavement; check museum rules before photographing objects or cells."
+      },
+      "zh": {
+        "history": "这里曾是罗马宗教裁判所在马耳他的驻地。从礼仪厅到狭小囚室，空间次序与瓦莱塔的宫殿参观有明显不同。",
+        "photoTip": "从对侧人行道拍街边立面；拍文物或囚室前，先看馆方规定。"
+      },
+      "mt": {
+        "history": "Il-bini ntuża mill-Inkwiżizzjoni Rumana f’Malta. Is-sekwenza mis-swali formali għaċ-ċelel turi l-funzjonijiet differenti tiegħu.",
+        "photoTip": "Ħu ritratt tal-faċċata mill-bankina opposta u ċċekkja r-regoli qabel tieħu ritratti ta’ oġġetti jew ċelel."
+      },
+      "it": {
+        "history": "L’edificio ospitò l’Inquisizione romana a Malta. La sequenza dalle sale di rappresentanza alle celle rivela funzioni molto diverse da quelle di un palazzo di Valletta.",
+        "photoTip": "Riprendi la facciata dal marciapiede opposto e verifica le regole per fotografare oggetti o celle."
+      }
+    }
+  },
+  "malta-maritime-museum": {
+    "role": "visitor",
+    "source": "https://heritagemalta.mt/explore/malta-maritime-museum/",
+    "visit": "museumExterior",
+    "walk": [
+      "fort-st-angelo",
+      "malta-maritime-museum",
+      "inquisitors-palace"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The museum occupies the former Royal Naval Bakery. Its quay-side position links the building with the dockyard that it supplied.",
+        "photoTip": "Use the public quay in Birgu for the bakery frontage, or the Senglea side for a wider view across the creek."
+      },
+      "zh": {
+        "history": "海事博物馆位于昔日皇家海军面包房。沿码头可看到建筑与当年供给的海军船坞之间的距离和联系。",
+        "photoTip": "可从比尔古公共码头拍旧面包房正面，也可从森格莱阿一侧隔湾拍全景。"
+      },
+      "mt": {
+        "history": "Il-mużew jinsab fl-eks forn tar-Royal Navy. Il-post max-xatt jurih marbut mat-tarzna li kien iservi.",
+        "photoTip": "Mix-xatt pubbliku tal-Birgu ħu ritratt tal-faċċata, jew mill-Isla ħu veduta usa’ minn naħa għall-oħra."
+      },
+      "it": {
+        "history": "Il museo occupa l’ex panificio della Royal Navy. La posizione sulla banchina lo collega all’arsenale che serviva.",
+        "photoTip": "Riprendi la facciata dalla banchina pubblica di Birgu o il panorama più ampio da Senglea."
+      }
+    }
+  },
+  "hastings-gardens": {
+    "role": "unknown",
+    "source": "https://en.wikipedia.org/wiki/Hastings_Gardens",
+    "visit": "open",
+    "walk": [
+      "city-gate",
+      "hastings-gardens",
+      "fortress-builders-interpretation-centre"
+    ],
+    "coordinates": null,
+    "gallery": [],
+    "text": {
+      "en": {
+        "history": "The gardens use the top of the west-side fortifications near City Gate. Look for the memorial to the Marquess of Hastings and the views toward Manoel Island.",
+        "photoTip": "Use the public path beside the parapet to frame Manoel Island and Marsamxett Harbour together."
+      },
+      "zh": {
+        "history": "花园利用城门旁的西侧城防顶部。可先找黑斯廷斯侯爵纪念碑，再沿城墙看向马诺埃尔岛。",
+        "photoTip": "在护墙旁的公共步道取景，将马诺埃尔岛与马尔萨姆谢特港一并摄入。"
+      },
+      "mt": {
+        "history": "Il-ġonna jinsabu fuq is-swar tal-punent qrib Bieb il-Belt. Fittex il-monument tal-Markiż ta’ Hastings u l-veduta lejn Manoel Island.",
+        "photoTip": "Mill-mogħdija pubblika ħdejn il-parapett inkwadra Manoel Island u l-Port ta’ Marsamxett flimkien."
+      },
+      "it": {
+        "history": "I giardini occupano la sommità delle fortificazioni occidentali presso la porta. Cerca il monumento al marchese di Hastings e la vista verso Manoel Island.",
+        "photoTip": "Dal sentiero pubblico accanto al parapetto inquadra insieme l’isola Manoel e il porto di Marsamxett."
+      }
+    }
+  }
+}
