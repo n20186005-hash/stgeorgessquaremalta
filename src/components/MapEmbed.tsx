@@ -32,7 +32,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - St. George's Square"
+            title={t('title')}
           />
         </div>
 

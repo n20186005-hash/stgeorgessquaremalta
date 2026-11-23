@@ -1,4 +1,13 @@
 {
+  "interface": {
+    "language": "Ibdel il-lingwa",
+    "theme": "Ibdel it-tema tal-kulur",
+    "previous": "Ritratt ta’ qabel",
+    "next": "Ritratt li jmiss",
+    "close": "Agħlaq il-wiri tar-ritratti",
+    "explore": "Aqra l-gwida tal-post",
+    "onPage": "F’din il-paġna"
+  },
   "meta": {
     "title": "St. George's Square Valletta: Gwida, Avvenimenti u Storja",
     "description": "Ippjana żjara tiegħek lejn St. George's Square (Misraħ San Ġorġ) f'Valletta, Malta — vvalutata 4.6/5 minn 5,405 viżitatur. B'xejn u miftuħa 24 siegħa, ħdejn il-Palazz tal-Gran Mastro u l-Katidral ta' San Ġwann. Avvenimenti, kif tasal u parkeġġ."
@@ -254,7 +263,7 @@
     ]
   },
   "footer": {
-    "brandName": "St. George's Square",
+    "brandName": "Misraħ San Ġorġ",
     "brandSubtitle": "Post Storiku · Valletta",
     "rights": "© 2026 Proġett Indipendenti ta' Riċerka dwar it-Turiżmu · Drittijiet kollha riservati.",
     "privacy": "Politika tal-Privatezza",
@@ -263,7 +272,7 @@
     "officialResourcesTitle": "Risorseżjali u Informazzjoni",
     "officialLinks": {
       "heritageMalta": "Heritage Malta",
-      "nationalInventory": "National Inventory of Cultural Property",
+      "nationalInventory": "Inventarju Nazzjonali tal-Proprjetà Kulturali",
       "visitMalta": "Malta Tourism Authority",
       "vallettaCity": "Valletta City Council",
       "planningAuthority": "Planning Authority Malta"

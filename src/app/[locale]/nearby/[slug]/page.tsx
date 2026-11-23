@@ -4,7 +4,7 @@ import { guideCopy, guideLocale, guideRole, guideType, readGuide } from '@/data/
 import { visitorInfo } from '@/data/nearby-visitor';
 import JsonLd from '@/components/JsonLd';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { nearbyCopy, placeCopy, placeMap, places, siteUrl } from '@/data/nearby';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
@@ -37,8 +37,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function GuideSection({ title, id, children }: { title: string; id?: string; children: ReactNode }) {
   return (
-    <section id={id} className="scroll-mt-24 rounded-2xl border p-5 sm:p-8" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
-      <h2 className="font-display text-2xl font-bold mb-4">{title}</h2>
+    <section id={id} className="scroll-mt-24 rounded-xl border p-6 sm:p-8" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
+      <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-4">{title}</h2>
+      <div className="mb-5 h-0.5 w-12" style={{ background: 'var(--accent)' }} />
       {children}
     </section>
   );
@@ -77,6 +78,7 @@ export default async function NearbyPlace({ params }: Props) {
     api: '1', origin: stops[0], destination: stops[2], waypoints: stops[1], travelmode: 'walking',
   });
   const walkingLink = 'https://www.google.com/maps/dir/?' + walkingParams;
+  const controls = await getTranslations('interface');
   const visitor = visitorInfo(slug, locale, place.route, guide.source);
   const v = visitor.ui;
   const stopNames = steps.map((stop) => placeCopy(stop, locale).name);
@@ -103,22 +105,32 @@ export default async function NearbyPlace({ params }: Props) {
       <JsonLd data={structured} />
       <Header />
       <main>
-        <section className="relative min-h-[65svh] flex items-end isolate">
+        <section className="relative min-h-[78svh] flex items-end isolate">
           <img src={place.photo} alt={content.name} fetchPriority="high" className="absolute inset-0 -z-20 w-full h-full object-cover" />
-          <div className="absolute inset-0 -z-10 bg-linear-to-t from-black/90 via-black/40 to-black/50" />
+          <div className="absolute inset-0 -z-10" style={{ background: 'linear-gradient(to top, rgba(0,0,0,.68), transparent 75%), var(--hero-overlay)' }} />
           <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-28 pb-12 w-full text-white">
             <a href={'/' + locale + '/nearby'} className="text-white underline underline-offset-4">{copy.nearby}</a>
-            <h1 className="font-display text-4xl sm:text-6xl font-bold mt-4">{content.name}</h1>
+            <h1 className="font-display max-w-4xl text-4xl sm:text-6xl lg:text-7xl font-bold mt-4 leading-tight">{content.name}</h1>
             <p className="mt-3 text-xl text-white/95">{visitor.tagline}</p>
             <p className="mt-3 text-sm text-white/90">{place.address}</p>
             <div className="mt-5 flex flex-wrap gap-2 sm:gap-3">
-              <a href="#opening-hours" className="rounded-full bg-black/55 px-4 py-2">{visitor.hours}</a>
-              <a href={map} className="rounded-full bg-black/55 px-4 py-2">{copy.map}</a>
-              <a href="#visitor-reviews" className="rounded-full bg-black/55 px-4 py-2">{v.rates}</a>
+              <a href="#opening-hours" className="rounded-full bg-white/15 backdrop-blur-sm px-4 py-2 hover:bg-white/25">{visitor.hours}</a>
+              <a href={map} className="rounded-full bg-white/15 backdrop-blur-sm px-4 py-2 hover:bg-white/25">{copy.map}</a>
+              <a href="#visitor-reviews" className="rounded-full bg-white/15 backdrop-blur-sm px-4 py-2 hover:bg-white/25">{v.rates}</a>
             </div>
           </div>
         </section>
 
+        <div style={{ background: 'var(--bg-secondary)' }}>
+          <nav aria-label={controls('onPage')} className="max-w-6xl mx-auto flex flex-wrap gap-x-5 gap-y-2 px-4 py-4 sm:px-6">
+            {[
+              ['visitor-info', copy.info], ['opening-hours', copy.hours],
+              ['walking-route', ui.walk], ['photo-spots', ui.photo], ['directions', v.map],
+            ].map(([id, label]) => (
+              <a key={id} href={'#' + id} className="text-sm font-medium underline underline-offset-4" style={{ color: 'var(--accent)' }}>{label}</a>
+            ))}
+          </nav>
+        </div>
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-6">
           <GuideSection title={v.explore}><p className="max-w-3xl leading-relaxed">{intro}</p></GuideSection>
           <GuideSection title={ui.plan}><p>{visit}</p></GuideSection>
@@ -131,7 +143,7 @@ export default async function NearbyPlace({ params }: Props) {
             {guide.source !== place.source && <a className="inline-block mt-3 ms-4 underline" href={place.source}>{copy.info}</a>}
           </GuideSection>
 
-          <GuideSection title={copy.info}>
+          <GuideSection title={copy.info} id="visitor-info">
             <dl className="divide-y" style={{ borderColor: 'var(--border-color)' }}>
               {info.map(([label, value]) => (
                 <div key={label} className="grid gap-1 py-3 sm:grid-cols-[1fr_2fr]">
@@ -163,7 +175,7 @@ export default async function NearbyPlace({ params }: Props) {
             <p className="max-w-3xl leading-relaxed">{story.history}</p>
           </GuideSection>
 
-          <GuideSection title={ui.walk}>
+          <GuideSection title={ui.walk} id="walking-route">
             <ol className="list-decimal ps-6 space-y-2">
               {steps.map((stop) => (
                 <li key={stop.slug}>{stop.slug === slug ? content.name : (
@@ -190,7 +202,7 @@ export default async function NearbyPlace({ params }: Props) {
             </details>
           </GuideSection>
 
-          <GuideSection title={ui.photo}>
+          <GuideSection title={ui.photo} id="photo-spots">
             <p className="mb-5">{story.photoTip}</p>
             <div className={photos.length > 1 ? 'grid gap-5 sm:grid-cols-2' : 'max-w-2xl'}>
               {photos.map((photo) => (
@@ -208,7 +220,7 @@ export default async function NearbyPlace({ params }: Props) {
             <a href={map} className="underline">{copy.reviewLink}</a>
           </GuideSection>
 
-          <GuideSection title={v.map}>
+          <GuideSection title={v.map} id="directions">
             <p>{place.address}, Malta</p>
             <div className="mt-3 flex flex-wrap gap-4">
               <a className="underline" href={map}>{copy.map}</a>

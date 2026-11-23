@@ -1,4 +1,13 @@
 {
+  "interface": {
+    "language": "Change language",
+    "theme": "Toggle colour theme",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "close": "Close photo viewer",
+    "explore": "Explore this attraction",
+    "onPage": "On this page"
+  },
   "meta": {
     "title": "St. George's Square Valletta: Visitor Guide, Events & History",
     "description": "Plan your visit to St. George's Square (Misraħ San Ġorġ) in Valletta, Malta — rated 4.6/5 by 5,405 travellers. Free and open 24 hours, by the Grandmaster's Palace and St. John's Co-Cathedral. Events, how to get there & parking."

@@ -1,3 +1,4 @@
+import LanguageToggle from '@/components/LanguageToggle';
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
@@ -46,9 +47,10 @@ function PrivacyContent() {
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+        <div className="mb-10 flex items-center justify-between gap-4">
         <a
           href={homeHref}
-          className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"
+          className="inline-flex items-center gap-2 text-sm font-medium transition-colors"
           style={{ color: 'var(--accent)' }}
         >
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -57,6 +59,8 @@ function PrivacyContent() {
           </svg>
           {ht('backToHome')}
         </a>
+        <LanguageToggle />
+        </div>
 
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
           {t('title')}

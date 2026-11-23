@@ -1,4 +1,13 @@
 {
+  "interface": {
+    "language": "Cambia lingua",
+    "theme": "Cambia tema",
+    "previous": "Foto precedente",
+    "next": "Foto successiva",
+    "close": "Chiudi la galleria",
+    "explore": "Leggi la guida",
+    "onPage": "In questa pagina"
+  },
   "meta": {
     "title": "St. George's Square Valletta: Guida, Eventi e Storia",
     "description": "Pianifica la tua visita a St. George's Square (Misraħ San Ġorġ) a Valletta, Malta — valutata 4.6/5 da 5.405 visitatori. Gratuita e aperta 24 ore, vicino al Palazzo del Gran Maestro e alla Cattedrale di San Giovanni. Eventi, come arrivare e parcheggio."
@@ -254,7 +263,7 @@
     ]
   },
   "footer": {
-    "brandName": "St. George's Square",
+    "brandName": "Piazza San Giorgio",
     "brandSubtitle": "Luogo Storico · Valletta",
     "rights": "© 2026 Progetto Indipendente di Ricerca Turistica · Tutti i diritti riservati.",
     "privacy": "Privacy",
@@ -263,7 +272,7 @@
     "officialResourcesTitle": "Risorse e Informazioni Ufficiali",
     "officialLinks": {
       "heritageMalta": "Heritage Malta",
-      "nationalInventory": "National Inventory of Cultural Property",
+      "nationalInventory": "Inventario nazionale dei beni culturali",
       "visitMalta": "Malta Tourism Authority",
       "vallettaCity": "Valletta City Council",
       "planningAuthority": "Planning Authority Malta"

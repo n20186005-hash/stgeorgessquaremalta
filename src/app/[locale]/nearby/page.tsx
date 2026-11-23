@@ -25,8 +25,17 @@ export default async function NearbyIndex({ params }: Props) {
   setRequestLocale(locale);
   return (
     <>
-      <Header solid />
-      <main className="pt-16"><NearbyPlaces locale={locale} full /></main>
+      <Header />
+      <main>
+        <section className="relative isolate min-h-[62svh] flex items-end overflow-hidden">
+          <img src="/gallery/st-georges-square (1).jpg" alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+          <div className="absolute inset-0 -z-10" style={{ background: 'var(--hero-overlay)' }} />
+          <div className="max-w-6xl mx-auto w-full px-4 sm:px-6 pt-28 pb-14 text-white">
+            <h1 className="font-display text-4xl sm:text-6xl lg:text-7xl font-bold leading-tight">{nearbyCopy(locale).nearby}</h1>
+          </div>
+        </section>
+        <NearbyPlaces locale={locale} full />
+      </main>
       <Footer />
     </>
   );

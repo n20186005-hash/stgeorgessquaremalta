@@ -7,6 +7,7 @@ import { useState, useEffect } from 'react';
 
 export default function Header({ solid = false }: { solid?: boolean }) {
   const t = useTranslations('header');
+  const footer = useTranslations('footer');
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -29,8 +30,8 @@ export default function Header({ solid = false }: { solid?: boolean }) {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={logoHref} className="font-display text-lg font-semibold tracking-tight" style={{ color: opaque ? 'var(--text-primary)' : '#fff' }}>
-          St. George's Square
+        <a href={logoHref} className="min-w-0 truncate font-display text-base sm:text-lg font-semibold tracking-tight" style={{ color: opaque ? 'var(--text-primary)' : '#fff' }}>
+          {footer('brandName')}
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
@@ -46,7 +47,7 @@ export default function Header({ solid = false }: { solid?: boolean }) {
           ))}
         </nav>
 
-        <div className="flex items-center gap-2">
+        <div className="flex shrink-0 items-center gap-2">
           <ThemeToggle />
           <LanguageToggle />
         </div>
