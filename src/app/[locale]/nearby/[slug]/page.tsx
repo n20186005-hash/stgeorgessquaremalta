@@ -8,8 +8,6 @@ import Footer from '@/components/Footer';
 
 type Props = { params: Promise<{ locale: string; slug: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return places.map(({ slug }) => ({ slug }));
 }
